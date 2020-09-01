@@ -1,0 +1,13 @@
+D:\C#\Inheritance\isARelateDemo\bin\Debug\netcoreapp3.1\isARelateDemo.exe
+D:\C#\Inheritance\isARelateDemo\bin\Debug\netcoreapp3.1\isARelateDemo.deps.json
+D:\C#\Inheritance\isARelateDemo\bin\Debug\netcoreapp3.1\isARelateDemo.runtimeconfig.json
+D:\C#\Inheritance\isARelateDemo\bin\Debug\netcoreapp3.1\isARelateDemo.runtimeconfig.dev.json
+D:\C#\Inheritance\isARelateDemo\bin\Debug\netcoreapp3.1\isARelateDemo.dll
+D:\C#\Inheritance\isARelateDemo\bin\Debug\netcoreapp3.1\isARelateDemo.pdb
+D:\C#\Inheritance\isARelateDemo\obj\Debug\netcoreapp3.1\isARelateDemo.csprojAssemblyReference.cache
+D:\C#\Inheritance\isARelateDemo\obj\Debug\netcoreapp3.1\isARelateDemo.AssemblyInfoInputs.cache
+D:\C#\Inheritance\isARelateDemo\obj\Debug\netcoreapp3.1\isARelateDemo.AssemblyInfo.cs
+D:\C#\Inheritance\isARelateDemo\obj\Debug\netcoreapp3.1\isARelateDemo.csproj.CoreCompileInputs.cache
+D:\C#\Inheritance\isARelateDemo\obj\Debug\netcoreapp3.1\isARelateDemo.dll
+D:\C#\Inheritance\isARelateDemo\obj\Debug\netcoreapp3.1\isARelateDemo.pdb
+D:\C#\Inheritance\isARelateDemo\obj\Debug\netcoreapp3.1\isARelateDemo.genruntimeconfig.cache

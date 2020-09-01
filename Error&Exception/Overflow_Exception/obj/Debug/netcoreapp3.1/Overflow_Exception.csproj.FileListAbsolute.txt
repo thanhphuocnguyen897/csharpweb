@@ -1,0 +1,13 @@
+D:\C#\Error&Exception\Overflow_Exception\bin\Debug\netcoreapp3.1\Overflow_Exception.exe
+D:\C#\Error&Exception\Overflow_Exception\bin\Debug\netcoreapp3.1\Overflow_Exception.deps.json
+D:\C#\Error&Exception\Overflow_Exception\bin\Debug\netcoreapp3.1\Overflow_Exception.runtimeconfig.json
+D:\C#\Error&Exception\Overflow_Exception\bin\Debug\netcoreapp3.1\Overflow_Exception.runtimeconfig.dev.json
+D:\C#\Error&Exception\Overflow_Exception\bin\Debug\netcoreapp3.1\Overflow_Exception.dll
+D:\C#\Error&Exception\Overflow_Exception\bin\Debug\netcoreapp3.1\Overflow_Exception.pdb
+D:\C#\Error&Exception\Overflow_Exception\obj\Debug\netcoreapp3.1\Overflow_Exception.csprojAssemblyReference.cache
+D:\C#\Error&Exception\Overflow_Exception\obj\Debug\netcoreapp3.1\Overflow_Exception.AssemblyInfoInputs.cache
+D:\C#\Error&Exception\Overflow_Exception\obj\Debug\netcoreapp3.1\Overflow_Exception.AssemblyInfo.cs
+D:\C#\Error&Exception\Overflow_Exception\obj\Debug\netcoreapp3.1\Overflow_Exception.csproj.CoreCompileInputs.cache
+D:\C#\Error&Exception\Overflow_Exception\obj\Debug\netcoreapp3.1\Overflow_Exception.dll
+D:\C#\Error&Exception\Overflow_Exception\obj\Debug\netcoreapp3.1\Overflow_Exception.pdb
+D:\C#\Error&Exception\Overflow_Exception\obj\Debug\netcoreapp3.1\Overflow_Exception.genruntimeconfig.cache

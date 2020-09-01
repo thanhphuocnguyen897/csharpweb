@@ -1,0 +1,13 @@
+D:\C#\Abstract&Interface\AnimalandEdible\bin\Debug\netcoreapp3.1\AnimalandEdible.exe
+D:\C#\Abstract&Interface\AnimalandEdible\bin\Debug\netcoreapp3.1\AnimalandEdible.deps.json
+D:\C#\Abstract&Interface\AnimalandEdible\bin\Debug\netcoreapp3.1\AnimalandEdible.runtimeconfig.json
+D:\C#\Abstract&Interface\AnimalandEdible\bin\Debug\netcoreapp3.1\AnimalandEdible.runtimeconfig.dev.json
+D:\C#\Abstract&Interface\AnimalandEdible\bin\Debug\netcoreapp3.1\AnimalandEdible.dll
+D:\C#\Abstract&Interface\AnimalandEdible\bin\Debug\netcoreapp3.1\AnimalandEdible.pdb
+D:\C#\Abstract&Interface\AnimalandEdible\obj\Debug\netcoreapp3.1\AnimalandEdible.csprojAssemblyReference.cache
+D:\C#\Abstract&Interface\AnimalandEdible\obj\Debug\netcoreapp3.1\AnimalandEdible.AssemblyInfoInputs.cache
+D:\C#\Abstract&Interface\AnimalandEdible\obj\Debug\netcoreapp3.1\AnimalandEdible.AssemblyInfo.cs
+D:\C#\Abstract&Interface\AnimalandEdible\obj\Debug\netcoreapp3.1\AnimalandEdible.csproj.CoreCompileInputs.cache
+D:\C#\Abstract&Interface\AnimalandEdible\obj\Debug\netcoreapp3.1\AnimalandEdible.dll
+D:\C#\Abstract&Interface\AnimalandEdible\obj\Debug\netcoreapp3.1\AnimalandEdible.pdb
+D:\C#\Abstract&Interface\AnimalandEdible\obj\Debug\netcoreapp3.1\AnimalandEdible.genruntimeconfig.cache

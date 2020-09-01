@@ -1,0 +1,13 @@
+C:\Users\thanh\source\repos\LinearEquation\bin\Debug\netcoreapp3.1\LinearEquation.exe
+C:\Users\thanh\source\repos\LinearEquation\bin\Debug\netcoreapp3.1\LinearEquation.deps.json
+C:\Users\thanh\source\repos\LinearEquation\bin\Debug\netcoreapp3.1\LinearEquation.runtimeconfig.json
+C:\Users\thanh\source\repos\LinearEquation\bin\Debug\netcoreapp3.1\LinearEquation.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\LinearEquation\bin\Debug\netcoreapp3.1\LinearEquation.dll
+C:\Users\thanh\source\repos\LinearEquation\bin\Debug\netcoreapp3.1\LinearEquation.pdb
+C:\Users\thanh\source\repos\LinearEquation\obj\Debug\netcoreapp3.1\LinearEquation.csprojAssemblyReference.cache
+C:\Users\thanh\source\repos\LinearEquation\obj\Debug\netcoreapp3.1\LinearEquation.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\LinearEquation\obj\Debug\netcoreapp3.1\LinearEquation.AssemblyInfo.cs
+C:\Users\thanh\source\repos\LinearEquation\obj\Debug\netcoreapp3.1\LinearEquation.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\LinearEquation\obj\Debug\netcoreapp3.1\LinearEquation.dll
+C:\Users\thanh\source\repos\LinearEquation\obj\Debug\netcoreapp3.1\LinearEquation.pdb
+C:\Users\thanh\source\repos\LinearEquation\obj\Debug\netcoreapp3.1\LinearEquation.genruntimeconfig.cache

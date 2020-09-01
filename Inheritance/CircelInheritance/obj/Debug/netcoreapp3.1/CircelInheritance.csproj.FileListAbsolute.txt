@@ -1,0 +1,13 @@
+D:\C#\Inheritance\CircelInheritance\bin\Debug\netcoreapp3.1\CircelInheritance.exe
+D:\C#\Inheritance\CircelInheritance\bin\Debug\netcoreapp3.1\CircelInheritance.deps.json
+D:\C#\Inheritance\CircelInheritance\bin\Debug\netcoreapp3.1\CircelInheritance.runtimeconfig.json
+D:\C#\Inheritance\CircelInheritance\bin\Debug\netcoreapp3.1\CircelInheritance.runtimeconfig.dev.json
+D:\C#\Inheritance\CircelInheritance\bin\Debug\netcoreapp3.1\CircelInheritance.dll
+D:\C#\Inheritance\CircelInheritance\bin\Debug\netcoreapp3.1\CircelInheritance.pdb
+D:\C#\Inheritance\CircelInheritance\obj\Debug\netcoreapp3.1\CircelInheritance.csprojAssemblyReference.cache
+D:\C#\Inheritance\CircelInheritance\obj\Debug\netcoreapp3.1\CircelInheritance.AssemblyInfoInputs.cache
+D:\C#\Inheritance\CircelInheritance\obj\Debug\netcoreapp3.1\CircelInheritance.AssemblyInfo.cs
+D:\C#\Inheritance\CircelInheritance\obj\Debug\netcoreapp3.1\CircelInheritance.csproj.CoreCompileInputs.cache
+D:\C#\Inheritance\CircelInheritance\obj\Debug\netcoreapp3.1\CircelInheritance.dll
+D:\C#\Inheritance\CircelInheritance\obj\Debug\netcoreapp3.1\CircelInheritance.pdb
+D:\C#\Inheritance\CircelInheritance\obj\Debug\netcoreapp3.1\CircelInheritance.genruntimeconfig.cache

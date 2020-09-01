@@ -1,0 +1,13 @@
+D:\C#\Collection2\CreateListWithIEnumerator\bin\Debug\netcoreapp3.1\CreateListWithIEnumerator.exe
+D:\C#\Collection2\CreateListWithIEnumerator\bin\Debug\netcoreapp3.1\CreateListWithIEnumerator.deps.json
+D:\C#\Collection2\CreateListWithIEnumerator\bin\Debug\netcoreapp3.1\CreateListWithIEnumerator.runtimeconfig.json
+D:\C#\Collection2\CreateListWithIEnumerator\bin\Debug\netcoreapp3.1\CreateListWithIEnumerator.runtimeconfig.dev.json
+D:\C#\Collection2\CreateListWithIEnumerator\bin\Debug\netcoreapp3.1\CreateListWithIEnumerator.dll
+D:\C#\Collection2\CreateListWithIEnumerator\bin\Debug\netcoreapp3.1\CreateListWithIEnumerator.pdb
+D:\C#\Collection2\CreateListWithIEnumerator\obj\Debug\netcoreapp3.1\CreateListWithIEnumerator.csprojAssemblyReference.cache
+D:\C#\Collection2\CreateListWithIEnumerator\obj\Debug\netcoreapp3.1\CreateListWithIEnumerator.AssemblyInfoInputs.cache
+D:\C#\Collection2\CreateListWithIEnumerator\obj\Debug\netcoreapp3.1\CreateListWithIEnumerator.AssemblyInfo.cs
+D:\C#\Collection2\CreateListWithIEnumerator\obj\Debug\netcoreapp3.1\CreateListWithIEnumerator.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\CreateListWithIEnumerator\obj\Debug\netcoreapp3.1\CreateListWithIEnumerator.dll
+D:\C#\Collection2\CreateListWithIEnumerator\obj\Debug\netcoreapp3.1\CreateListWithIEnumerator.pdb
+D:\C#\Collection2\CreateListWithIEnumerator\obj\Debug\netcoreapp3.1\CreateListWithIEnumerator.genruntimeconfig.cache

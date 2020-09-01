@@ -1,0 +1,13 @@
+D:\C#\Threadding\TaskParallelLibrary_Practise\bin\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.exe
+D:\C#\Threadding\TaskParallelLibrary_Practise\bin\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.deps.json
+D:\C#\Threadding\TaskParallelLibrary_Practise\bin\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.runtimeconfig.json
+D:\C#\Threadding\TaskParallelLibrary_Practise\bin\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.runtimeconfig.dev.json
+D:\C#\Threadding\TaskParallelLibrary_Practise\bin\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.dll
+D:\C#\Threadding\TaskParallelLibrary_Practise\bin\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.pdb
+D:\C#\Threadding\TaskParallelLibrary_Practise\obj\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.csprojAssemblyReference.cache
+D:\C#\Threadding\TaskParallelLibrary_Practise\obj\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.AssemblyInfoInputs.cache
+D:\C#\Threadding\TaskParallelLibrary_Practise\obj\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.AssemblyInfo.cs
+D:\C#\Threadding\TaskParallelLibrary_Practise\obj\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.csproj.CoreCompileInputs.cache
+D:\C#\Threadding\TaskParallelLibrary_Practise\obj\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.dll
+D:\C#\Threadding\TaskParallelLibrary_Practise\obj\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.pdb
+D:\C#\Threadding\TaskParallelLibrary_Practise\obj\Debug\netcoreapp3.1\TaskParallelLibrary_Practise.genruntimeconfig.cache

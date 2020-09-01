@@ -1,0 +1,13 @@
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\bin\Debug\netcoreapp3.1\DirectorClass.exe
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\bin\Debug\netcoreapp3.1\DirectorClass.deps.json
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\bin\Debug\netcoreapp3.1\DirectorClass.runtimeconfig.json
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\bin\Debug\netcoreapp3.1\DirectorClass.runtimeconfig.dev.json
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\bin\Debug\netcoreapp3.1\DirectorClass.dll
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\bin\Debug\netcoreapp3.1\DirectorClass.pdb
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\obj\Debug\netcoreapp3.1\DirectorClass.csprojAssemblyReference.cache
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\obj\Debug\netcoreapp3.1\DirectorClass.AssemblyInfoInputs.cache
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\obj\Debug\netcoreapp3.1\DirectorClass.AssemblyInfo.cs
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\obj\Debug\netcoreapp3.1\DirectorClass.csproj.CoreCompileInputs.cache
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\obj\Debug\netcoreapp3.1\DirectorClass.dll
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\obj\Debug\netcoreapp3.1\DirectorClass.pdb
+D:\C#\FileManipulation\Directory_And_DirectoryInfo\DirectorClass\obj\Debug\netcoreapp3.1\DirectorClass.genruntimeconfig.cache

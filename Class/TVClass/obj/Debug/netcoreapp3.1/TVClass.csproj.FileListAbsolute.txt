@@ -1,0 +1,12 @@
+D:\C#\Class\TVClass\bin\Debug\netcoreapp3.1\TVClass.exe
+D:\C#\Class\TVClass\bin\Debug\netcoreapp3.1\TVClass.deps.json
+D:\C#\Class\TVClass\bin\Debug\netcoreapp3.1\TVClass.runtimeconfig.json
+D:\C#\Class\TVClass\bin\Debug\netcoreapp3.1\TVClass.runtimeconfig.dev.json
+D:\C#\Class\TVClass\bin\Debug\netcoreapp3.1\TVClass.dll
+D:\C#\Class\TVClass\bin\Debug\netcoreapp3.1\TVClass.pdb
+D:\C#\Class\TVClass\obj\Debug\netcoreapp3.1\TVClass.AssemblyInfoInputs.cache
+D:\C#\Class\TVClass\obj\Debug\netcoreapp3.1\TVClass.AssemblyInfo.cs
+D:\C#\Class\TVClass\obj\Debug\netcoreapp3.1\TVClass.csproj.CoreCompileInputs.cache
+D:\C#\Class\TVClass\obj\Debug\netcoreapp3.1\TVClass.dll
+D:\C#\Class\TVClass\obj\Debug\netcoreapp3.1\TVClass.pdb
+D:\C#\Class\TVClass\obj\Debug\netcoreapp3.1\TVClass.genruntimeconfig.cache

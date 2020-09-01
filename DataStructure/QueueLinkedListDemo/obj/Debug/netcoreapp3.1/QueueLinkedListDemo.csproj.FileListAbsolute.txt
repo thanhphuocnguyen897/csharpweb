@@ -1,0 +1,13 @@
+D:\C#\DataStructure\QueueLinkedListDemo\bin\Debug\netcoreapp3.1\QueueLinkedListDemo.exe
+D:\C#\DataStructure\QueueLinkedListDemo\bin\Debug\netcoreapp3.1\QueueLinkedListDemo.deps.json
+D:\C#\DataStructure\QueueLinkedListDemo\bin\Debug\netcoreapp3.1\QueueLinkedListDemo.runtimeconfig.json
+D:\C#\DataStructure\QueueLinkedListDemo\bin\Debug\netcoreapp3.1\QueueLinkedListDemo.runtimeconfig.dev.json
+D:\C#\DataStructure\QueueLinkedListDemo\bin\Debug\netcoreapp3.1\QueueLinkedListDemo.dll
+D:\C#\DataStructure\QueueLinkedListDemo\bin\Debug\netcoreapp3.1\QueueLinkedListDemo.pdb
+D:\C#\DataStructure\QueueLinkedListDemo\obj\Debug\netcoreapp3.1\QueueLinkedListDemo.csprojAssemblyReference.cache
+D:\C#\DataStructure\QueueLinkedListDemo\obj\Debug\netcoreapp3.1\QueueLinkedListDemo.AssemblyInfoInputs.cache
+D:\C#\DataStructure\QueueLinkedListDemo\obj\Debug\netcoreapp3.1\QueueLinkedListDemo.AssemblyInfo.cs
+D:\C#\DataStructure\QueueLinkedListDemo\obj\Debug\netcoreapp3.1\QueueLinkedListDemo.csproj.CoreCompileInputs.cache
+D:\C#\DataStructure\QueueLinkedListDemo\obj\Debug\netcoreapp3.1\QueueLinkedListDemo.dll
+D:\C#\DataStructure\QueueLinkedListDemo\obj\Debug\netcoreapp3.1\QueueLinkedListDemo.pdb
+D:\C#\DataStructure\QueueLinkedListDemo\obj\Debug\netcoreapp3.1\QueueLinkedListDemo.genruntimeconfig.cache

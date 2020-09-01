@@ -1,0 +1,13 @@
+D:\C#\Collection2\GenerticListExercise\bin\Debug\netcoreapp3.1\GenericListExercise.exe
+D:\C#\Collection2\GenerticListExercise\bin\Debug\netcoreapp3.1\GenericListExercise.deps.json
+D:\C#\Collection2\GenerticListExercise\bin\Debug\netcoreapp3.1\GenericListExercise.runtimeconfig.json
+D:\C#\Collection2\GenerticListExercise\bin\Debug\netcoreapp3.1\GenericListExercise.runtimeconfig.dev.json
+D:\C#\Collection2\GenerticListExercise\bin\Debug\netcoreapp3.1\GenericListExercise.dll
+D:\C#\Collection2\GenerticListExercise\bin\Debug\netcoreapp3.1\GenericListExercise.pdb
+D:\C#\Collection2\GenerticListExercise\obj\Debug\netcoreapp3.1\GenericListExercise.csprojAssemblyReference.cache
+D:\C#\Collection2\GenerticListExercise\obj\Debug\netcoreapp3.1\GenericListExercise.AssemblyInfoInputs.cache
+D:\C#\Collection2\GenerticListExercise\obj\Debug\netcoreapp3.1\GenericListExercise.AssemblyInfo.cs
+D:\C#\Collection2\GenerticListExercise\obj\Debug\netcoreapp3.1\GenericListExercise.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\GenerticListExercise\obj\Debug\netcoreapp3.1\GenericListExercise.dll
+D:\C#\Collection2\GenerticListExercise\obj\Debug\netcoreapp3.1\GenericListExercise.pdb
+D:\C#\Collection2\GenerticListExercise\obj\Debug\netcoreapp3.1\GenericListExercise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\bin\Debug\netcoreapp3.1\DecimaltoBinaryStack.exe
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\bin\Debug\netcoreapp3.1\DecimaltoBinaryStack.deps.json
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\bin\Debug\netcoreapp3.1\DecimaltoBinaryStack.runtimeconfig.json
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\bin\Debug\netcoreapp3.1\DecimaltoBinaryStack.runtimeconfig.dev.json
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\bin\Debug\netcoreapp3.1\DecimaltoBinaryStack.dll
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\bin\Debug\netcoreapp3.1\DecimaltoBinaryStack.pdb
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\obj\Debug\netcoreapp3.1\DecimaltoBinaryStack.csprojAssemblyReference.cache
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\obj\Debug\netcoreapp3.1\DecimaltoBinaryStack.AssemblyInfoInputs.cache
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\obj\Debug\netcoreapp3.1\DecimaltoBinaryStack.AssemblyInfo.cs
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\obj\Debug\netcoreapp3.1\DecimaltoBinaryStack.csproj.CoreCompileInputs.cache
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\obj\Debug\netcoreapp3.1\DecimaltoBinaryStack.dll
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\obj\Debug\netcoreapp3.1\DecimaltoBinaryStack.pdb
+D:\C#\DataStructure\Reverse-Element-With-Stack\DecimaltoBinaryStack\obj\Debug\netcoreapp3.1\DecimaltoBinaryStack.genruntimeconfig.cache

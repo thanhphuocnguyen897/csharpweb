@@ -1,0 +1,13 @@
+D:\C#\Colections\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.exe
+D:\C#\Colections\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.deps.json
+D:\C#\Colections\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.runtimeconfig.json
+D:\C#\Colections\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.runtimeconfig.dev.json
+D:\C#\Colections\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.dll
+D:\C#\Colections\LinkedListDemo\bin\Debug\netcoreapp3.1\LinkedListDemo.pdb
+D:\C#\Colections\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.csprojAssemblyReference.cache
+D:\C#\Colections\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.AssemblyInfoInputs.cache
+D:\C#\Colections\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.AssemblyInfo.cs
+D:\C#\Colections\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.csproj.CoreCompileInputs.cache
+D:\C#\Colections\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.dll
+D:\C#\Colections\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.pdb
+D:\C#\Colections\LinkedListDemo\obj\Debug\netcoreapp3.1\LinkedListDemo.genruntimeconfig.cache

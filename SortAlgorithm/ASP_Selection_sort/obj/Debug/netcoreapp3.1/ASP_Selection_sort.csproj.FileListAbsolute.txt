@@ -1,0 +1,13 @@
+D:\C#\SortAlgorithm\ASP_Selection_sort\bin\Debug\netcoreapp3.1\ASP_Selection_sort.exe
+D:\C#\SortAlgorithm\ASP_Selection_sort\bin\Debug\netcoreapp3.1\ASP_Selection_sort.deps.json
+D:\C#\SortAlgorithm\ASP_Selection_sort\bin\Debug\netcoreapp3.1\ASP_Selection_sort.runtimeconfig.json
+D:\C#\SortAlgorithm\ASP_Selection_sort\bin\Debug\netcoreapp3.1\ASP_Selection_sort.runtimeconfig.dev.json
+D:\C#\SortAlgorithm\ASP_Selection_sort\bin\Debug\netcoreapp3.1\ASP_Selection_sort.dll
+D:\C#\SortAlgorithm\ASP_Selection_sort\bin\Debug\netcoreapp3.1\ASP_Selection_sort.pdb
+D:\C#\SortAlgorithm\ASP_Selection_sort\obj\Debug\netcoreapp3.1\ASP_Selection_sort.csprojAssemblyReference.cache
+D:\C#\SortAlgorithm\ASP_Selection_sort\obj\Debug\netcoreapp3.1\ASP_Selection_sort.AssemblyInfoInputs.cache
+D:\C#\SortAlgorithm\ASP_Selection_sort\obj\Debug\netcoreapp3.1\ASP_Selection_sort.AssemblyInfo.cs
+D:\C#\SortAlgorithm\ASP_Selection_sort\obj\Debug\netcoreapp3.1\ASP_Selection_sort.csproj.CoreCompileInputs.cache
+D:\C#\SortAlgorithm\ASP_Selection_sort\obj\Debug\netcoreapp3.1\ASP_Selection_sort.dll
+D:\C#\SortAlgorithm\ASP_Selection_sort\obj\Debug\netcoreapp3.1\ASP_Selection_sort.pdb
+D:\C#\SortAlgorithm\ASP_Selection_sort\obj\Debug\netcoreapp3.1\ASP_Selection_sort.genruntimeconfig.cache

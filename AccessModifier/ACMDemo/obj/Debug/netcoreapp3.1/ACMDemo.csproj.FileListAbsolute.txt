@@ -1,0 +1,13 @@
+D:\C#\AccessModifier\ACMDemo\bin\Debug\netcoreapp3.1\ACMDemo.exe
+D:\C#\AccessModifier\ACMDemo\bin\Debug\netcoreapp3.1\ACMDemo.deps.json
+D:\C#\AccessModifier\ACMDemo\bin\Debug\netcoreapp3.1\ACMDemo.runtimeconfig.json
+D:\C#\AccessModifier\ACMDemo\bin\Debug\netcoreapp3.1\ACMDemo.runtimeconfig.dev.json
+D:\C#\AccessModifier\ACMDemo\bin\Debug\netcoreapp3.1\ACMDemo.dll
+D:\C#\AccessModifier\ACMDemo\bin\Debug\netcoreapp3.1\ACMDemo.pdb
+D:\C#\AccessModifier\ACMDemo\obj\Debug\netcoreapp3.1\ACMDemo.csprojAssemblyReference.cache
+D:\C#\AccessModifier\ACMDemo\obj\Debug\netcoreapp3.1\ACMDemo.AssemblyInfoInputs.cache
+D:\C#\AccessModifier\ACMDemo\obj\Debug\netcoreapp3.1\ACMDemo.AssemblyInfo.cs
+D:\C#\AccessModifier\ACMDemo\obj\Debug\netcoreapp3.1\ACMDemo.csproj.CoreCompileInputs.cache
+D:\C#\AccessModifier\ACMDemo\obj\Debug\netcoreapp3.1\ACMDemo.dll
+D:\C#\AccessModifier\ACMDemo\obj\Debug\netcoreapp3.1\ACMDemo.pdb
+D:\C#\AccessModifier\ACMDemo\obj\Debug\netcoreapp3.1\ACMDemo.genruntimeconfig.cache

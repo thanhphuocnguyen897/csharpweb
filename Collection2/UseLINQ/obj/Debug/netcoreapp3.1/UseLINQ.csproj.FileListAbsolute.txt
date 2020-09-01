@@ -1,0 +1,13 @@
+D:\C#\Collection2\UseLINQ\bin\Debug\netcoreapp3.1\UseLINQ.exe
+D:\C#\Collection2\UseLINQ\bin\Debug\netcoreapp3.1\UseLINQ.deps.json
+D:\C#\Collection2\UseLINQ\bin\Debug\netcoreapp3.1\UseLINQ.runtimeconfig.json
+D:\C#\Collection2\UseLINQ\bin\Debug\netcoreapp3.1\UseLINQ.runtimeconfig.dev.json
+D:\C#\Collection2\UseLINQ\bin\Debug\netcoreapp3.1\UseLINQ.dll
+D:\C#\Collection2\UseLINQ\bin\Debug\netcoreapp3.1\UseLINQ.pdb
+D:\C#\Collection2\UseLINQ\obj\Debug\netcoreapp3.1\UseLINQ.csprojAssemblyReference.cache
+D:\C#\Collection2\UseLINQ\obj\Debug\netcoreapp3.1\UseLINQ.AssemblyInfoInputs.cache
+D:\C#\Collection2\UseLINQ\obj\Debug\netcoreapp3.1\UseLINQ.AssemblyInfo.cs
+D:\C#\Collection2\UseLINQ\obj\Debug\netcoreapp3.1\UseLINQ.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\UseLINQ\obj\Debug\netcoreapp3.1\UseLINQ.dll
+D:\C#\Collection2\UseLINQ\obj\Debug\netcoreapp3.1\UseLINQ.pdb
+D:\C#\Collection2\UseLINQ\obj\Debug\netcoreapp3.1\UseLINQ.genruntimeconfig.cache

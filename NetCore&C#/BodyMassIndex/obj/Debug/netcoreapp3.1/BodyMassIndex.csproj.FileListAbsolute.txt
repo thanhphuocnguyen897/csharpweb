@@ -1,0 +1,12 @@
+C:\Users\thanh\source\repos\BodyMassIndex\bin\Debug\netcoreapp3.1\BodyMassIndex.exe
+C:\Users\thanh\source\repos\BodyMassIndex\bin\Debug\netcoreapp3.1\BodyMassIndex.deps.json
+C:\Users\thanh\source\repos\BodyMassIndex\bin\Debug\netcoreapp3.1\BodyMassIndex.runtimeconfig.json
+C:\Users\thanh\source\repos\BodyMassIndex\bin\Debug\netcoreapp3.1\BodyMassIndex.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\BodyMassIndex\bin\Debug\netcoreapp3.1\BodyMassIndex.dll
+C:\Users\thanh\source\repos\BodyMassIndex\bin\Debug\netcoreapp3.1\BodyMassIndex.pdb
+C:\Users\thanh\source\repos\BodyMassIndex\obj\Debug\netcoreapp3.1\BodyMassIndex.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\BodyMassIndex\obj\Debug\netcoreapp3.1\BodyMassIndex.AssemblyInfo.cs
+C:\Users\thanh\source\repos\BodyMassIndex\obj\Debug\netcoreapp3.1\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\BodyMassIndex\obj\Debug\netcoreapp3.1\BodyMassIndex.dll
+C:\Users\thanh\source\repos\BodyMassIndex\obj\Debug\netcoreapp3.1\BodyMassIndex.pdb
+C:\Users\thanh\source\repos\BodyMassIndex\obj\Debug\netcoreapp3.1\BodyMassIndex.genruntimeconfig.cache

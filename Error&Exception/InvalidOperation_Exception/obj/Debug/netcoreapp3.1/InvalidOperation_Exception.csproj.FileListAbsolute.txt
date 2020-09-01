@@ -1,0 +1,13 @@
+D:\C#\Error&Exception\InvalidOperation_Exception\bin\Debug\netcoreapp3.1\InvalidOperation_Exception.exe
+D:\C#\Error&Exception\InvalidOperation_Exception\bin\Debug\netcoreapp3.1\InvalidOperation_Exception.deps.json
+D:\C#\Error&Exception\InvalidOperation_Exception\bin\Debug\netcoreapp3.1\InvalidOperation_Exception.runtimeconfig.json
+D:\C#\Error&Exception\InvalidOperation_Exception\bin\Debug\netcoreapp3.1\InvalidOperation_Exception.runtimeconfig.dev.json
+D:\C#\Error&Exception\InvalidOperation_Exception\bin\Debug\netcoreapp3.1\InvalidOperation_Exception.dll
+D:\C#\Error&Exception\InvalidOperation_Exception\bin\Debug\netcoreapp3.1\InvalidOperation_Exception.pdb
+D:\C#\Error&Exception\InvalidOperation_Exception\obj\Debug\netcoreapp3.1\InvalidOperation_Exception.csprojAssemblyReference.cache
+D:\C#\Error&Exception\InvalidOperation_Exception\obj\Debug\netcoreapp3.1\InvalidOperation_Exception.AssemblyInfoInputs.cache
+D:\C#\Error&Exception\InvalidOperation_Exception\obj\Debug\netcoreapp3.1\InvalidOperation_Exception.AssemblyInfo.cs
+D:\C#\Error&Exception\InvalidOperation_Exception\obj\Debug\netcoreapp3.1\InvalidOperation_Exception.csproj.CoreCompileInputs.cache
+D:\C#\Error&Exception\InvalidOperation_Exception\obj\Debug\netcoreapp3.1\InvalidOperation_Exception.dll
+D:\C#\Error&Exception\InvalidOperation_Exception\obj\Debug\netcoreapp3.1\InvalidOperation_Exception.pdb
+D:\C#\Error&Exception\InvalidOperation_Exception\obj\Debug\netcoreapp3.1\InvalidOperation_Exception.genruntimeconfig.cache

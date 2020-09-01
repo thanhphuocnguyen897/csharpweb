@@ -1,0 +1,13 @@
+D:\C#\Method&Array\BiggestElement2DArray\bin\Debug\netcoreapp3.1\BiggestElement2DArray.exe
+D:\C#\Method&Array\BiggestElement2DArray\bin\Debug\netcoreapp3.1\BiggestElement2DArray.deps.json
+D:\C#\Method&Array\BiggestElement2DArray\bin\Debug\netcoreapp3.1\BiggestElement2DArray.runtimeconfig.json
+D:\C#\Method&Array\BiggestElement2DArray\bin\Debug\netcoreapp3.1\BiggestElement2DArray.runtimeconfig.dev.json
+D:\C#\Method&Array\BiggestElement2DArray\bin\Debug\netcoreapp3.1\BiggestElement2DArray.dll
+D:\C#\Method&Array\BiggestElement2DArray\bin\Debug\netcoreapp3.1\BiggestElement2DArray.pdb
+D:\C#\Method&Array\BiggestElement2DArray\obj\Debug\netcoreapp3.1\BiggestElement2DArray.csprojAssemblyReference.cache
+D:\C#\Method&Array\BiggestElement2DArray\obj\Debug\netcoreapp3.1\BiggestElement2DArray.AssemblyInfoInputs.cache
+D:\C#\Method&Array\BiggestElement2DArray\obj\Debug\netcoreapp3.1\BiggestElement2DArray.AssemblyInfo.cs
+D:\C#\Method&Array\BiggestElement2DArray\obj\Debug\netcoreapp3.1\BiggestElement2DArray.csproj.CoreCompileInputs.cache
+D:\C#\Method&Array\BiggestElement2DArray\obj\Debug\netcoreapp3.1\BiggestElement2DArray.dll
+D:\C#\Method&Array\BiggestElement2DArray\obj\Debug\netcoreapp3.1\BiggestElement2DArray.pdb
+D:\C#\Method&Array\BiggestElement2DArray\obj\Debug\netcoreapp3.1\BiggestElement2DArray.genruntimeconfig.cache

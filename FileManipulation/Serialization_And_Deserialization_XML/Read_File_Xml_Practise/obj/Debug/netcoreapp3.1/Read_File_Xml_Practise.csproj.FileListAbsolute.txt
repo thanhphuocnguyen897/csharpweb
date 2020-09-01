@@ -1,0 +1,13 @@
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\bin\Debug\netcoreapp3.1\Read_File_Xml_Practise.exe
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\bin\Debug\netcoreapp3.1\Read_File_Xml_Practise.deps.json
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\bin\Debug\netcoreapp3.1\Read_File_Xml_Practise.runtimeconfig.json
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\bin\Debug\netcoreapp3.1\Read_File_Xml_Practise.runtimeconfig.dev.json
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\bin\Debug\netcoreapp3.1\Read_File_Xml_Practise.dll
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\bin\Debug\netcoreapp3.1\Read_File_Xml_Practise.pdb
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\obj\Debug\netcoreapp3.1\Read_File_Xml_Practise.csprojAssemblyReference.cache
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\obj\Debug\netcoreapp3.1\Read_File_Xml_Practise.AssemblyInfoInputs.cache
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\obj\Debug\netcoreapp3.1\Read_File_Xml_Practise.AssemblyInfo.cs
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\obj\Debug\netcoreapp3.1\Read_File_Xml_Practise.csproj.CoreCompileInputs.cache
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\obj\Debug\netcoreapp3.1\Read_File_Xml_Practise.dll
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\obj\Debug\netcoreapp3.1\Read_File_Xml_Practise.pdb
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Read_File_Xml_Practise\obj\Debug\netcoreapp3.1\Read_File_Xml_Practise.genruntimeconfig.cache

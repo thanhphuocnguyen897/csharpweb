@@ -1,0 +1,13 @@
+D:\C#\SortAlgorithm\ASP_bubble_sort\bin\Debug\netcoreapp3.1\ASP_bubble_sort.exe
+D:\C#\SortAlgorithm\ASP_bubble_sort\bin\Debug\netcoreapp3.1\ASP_bubble_sort.deps.json
+D:\C#\SortAlgorithm\ASP_bubble_sort\bin\Debug\netcoreapp3.1\ASP_bubble_sort.runtimeconfig.json
+D:\C#\SortAlgorithm\ASP_bubble_sort\bin\Debug\netcoreapp3.1\ASP_bubble_sort.runtimeconfig.dev.json
+D:\C#\SortAlgorithm\ASP_bubble_sort\bin\Debug\netcoreapp3.1\ASP_bubble_sort.dll
+D:\C#\SortAlgorithm\ASP_bubble_sort\bin\Debug\netcoreapp3.1\ASP_bubble_sort.pdb
+D:\C#\SortAlgorithm\ASP_bubble_sort\obj\Debug\netcoreapp3.1\ASP_bubble_sort.csprojAssemblyReference.cache
+D:\C#\SortAlgorithm\ASP_bubble_sort\obj\Debug\netcoreapp3.1\ASP_bubble_sort.AssemblyInfoInputs.cache
+D:\C#\SortAlgorithm\ASP_bubble_sort\obj\Debug\netcoreapp3.1\ASP_bubble_sort.AssemblyInfo.cs
+D:\C#\SortAlgorithm\ASP_bubble_sort\obj\Debug\netcoreapp3.1\ASP_bubble_sort.csproj.CoreCompileInputs.cache
+D:\C#\SortAlgorithm\ASP_bubble_sort\obj\Debug\netcoreapp3.1\ASP_bubble_sort.dll
+D:\C#\SortAlgorithm\ASP_bubble_sort\obj\Debug\netcoreapp3.1\ASP_bubble_sort.pdb
+D:\C#\SortAlgorithm\ASP_bubble_sort\obj\Debug\netcoreapp3.1\ASP_bubble_sort.genruntimeconfig.cache

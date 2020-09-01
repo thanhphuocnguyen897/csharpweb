@@ -1,0 +1,13 @@
+D:\C#\Error&Exception\FileNotFounda_Exception\bin\Debug\netcoreapp3.1\FileNotFounda_Exception.exe
+D:\C#\Error&Exception\FileNotFounda_Exception\bin\Debug\netcoreapp3.1\FileNotFounda_Exception.deps.json
+D:\C#\Error&Exception\FileNotFounda_Exception\bin\Debug\netcoreapp3.1\FileNotFounda_Exception.runtimeconfig.json
+D:\C#\Error&Exception\FileNotFounda_Exception\bin\Debug\netcoreapp3.1\FileNotFounda_Exception.runtimeconfig.dev.json
+D:\C#\Error&Exception\FileNotFounda_Exception\bin\Debug\netcoreapp3.1\FileNotFounda_Exception.dll
+D:\C#\Error&Exception\FileNotFounda_Exception\bin\Debug\netcoreapp3.1\FileNotFounda_Exception.pdb
+D:\C#\Error&Exception\FileNotFounda_Exception\obj\Debug\netcoreapp3.1\FileNotFounda_Exception.csprojAssemblyReference.cache
+D:\C#\Error&Exception\FileNotFounda_Exception\obj\Debug\netcoreapp3.1\FileNotFounda_Exception.AssemblyInfoInputs.cache
+D:\C#\Error&Exception\FileNotFounda_Exception\obj\Debug\netcoreapp3.1\FileNotFounda_Exception.AssemblyInfo.cs
+D:\C#\Error&Exception\FileNotFounda_Exception\obj\Debug\netcoreapp3.1\FileNotFounda_Exception.csproj.CoreCompileInputs.cache
+D:\C#\Error&Exception\FileNotFounda_Exception\obj\Debug\netcoreapp3.1\FileNotFounda_Exception.dll
+D:\C#\Error&Exception\FileNotFounda_Exception\obj\Debug\netcoreapp3.1\FileNotFounda_Exception.pdb
+D:\C#\Error&Exception\FileNotFounda_Exception\obj\Debug\netcoreapp3.1\FileNotFounda_Exception.genruntimeconfig.cache

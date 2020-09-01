@@ -1,0 +1,13 @@
+D:\C#\StringinC#\Regex_Practise2\bin\Debug\netcoreapp3.1\Regex_Practise2.exe
+D:\C#\StringinC#\Regex_Practise2\bin\Debug\netcoreapp3.1\Regex_Practise2.deps.json
+D:\C#\StringinC#\Regex_Practise2\bin\Debug\netcoreapp3.1\Regex_Practise2.runtimeconfig.json
+D:\C#\StringinC#\Regex_Practise2\bin\Debug\netcoreapp3.1\Regex_Practise2.runtimeconfig.dev.json
+D:\C#\StringinC#\Regex_Practise2\bin\Debug\netcoreapp3.1\Regex_Practise2.dll
+D:\C#\StringinC#\Regex_Practise2\bin\Debug\netcoreapp3.1\Regex_Practise2.pdb
+D:\C#\StringinC#\Regex_Practise2\obj\Debug\netcoreapp3.1\Regex_Practise2.csprojAssemblyReference.cache
+D:\C#\StringinC#\Regex_Practise2\obj\Debug\netcoreapp3.1\Regex_Practise2.AssemblyInfoInputs.cache
+D:\C#\StringinC#\Regex_Practise2\obj\Debug\netcoreapp3.1\Regex_Practise2.AssemblyInfo.cs
+D:\C#\StringinC#\Regex_Practise2\obj\Debug\netcoreapp3.1\Regex_Practise2.csproj.CoreCompileInputs.cache
+D:\C#\StringinC#\Regex_Practise2\obj\Debug\netcoreapp3.1\Regex_Practise2.dll
+D:\C#\StringinC#\Regex_Practise2\obj\Debug\netcoreapp3.1\Regex_Practise2.pdb
+D:\C#\StringinC#\Regex_Practise2\obj\Debug\netcoreapp3.1\Regex_Practise2.genruntimeconfig.cache

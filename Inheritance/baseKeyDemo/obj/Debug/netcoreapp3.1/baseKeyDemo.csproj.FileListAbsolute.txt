@@ -1,0 +1,13 @@
+D:\C#\Inheritance\baseKeyDemo\bin\Debug\netcoreapp3.1\baseKeyDemo.exe
+D:\C#\Inheritance\baseKeyDemo\bin\Debug\netcoreapp3.1\baseKeyDemo.deps.json
+D:\C#\Inheritance\baseKeyDemo\bin\Debug\netcoreapp3.1\baseKeyDemo.runtimeconfig.json
+D:\C#\Inheritance\baseKeyDemo\bin\Debug\netcoreapp3.1\baseKeyDemo.runtimeconfig.dev.json
+D:\C#\Inheritance\baseKeyDemo\bin\Debug\netcoreapp3.1\baseKeyDemo.dll
+D:\C#\Inheritance\baseKeyDemo\bin\Debug\netcoreapp3.1\baseKeyDemo.pdb
+D:\C#\Inheritance\baseKeyDemo\obj\Debug\netcoreapp3.1\baseKeyDemo.csprojAssemblyReference.cache
+D:\C#\Inheritance\baseKeyDemo\obj\Debug\netcoreapp3.1\baseKeyDemo.AssemblyInfoInputs.cache
+D:\C#\Inheritance\baseKeyDemo\obj\Debug\netcoreapp3.1\baseKeyDemo.AssemblyInfo.cs
+D:\C#\Inheritance\baseKeyDemo\obj\Debug\netcoreapp3.1\baseKeyDemo.csproj.CoreCompileInputs.cache
+D:\C#\Inheritance\baseKeyDemo\obj\Debug\netcoreapp3.1\baseKeyDemo.dll
+D:\C#\Inheritance\baseKeyDemo\obj\Debug\netcoreapp3.1\baseKeyDemo.pdb
+D:\C#\Inheritance\baseKeyDemo\obj\Debug\netcoreapp3.1\baseKeyDemo.genruntimeconfig.cache

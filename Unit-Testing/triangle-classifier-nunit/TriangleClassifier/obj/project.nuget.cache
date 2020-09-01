@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oC1KrCm7jrw1eW2dzYrOguioMPKFY/T/IObTkUOZ2z5EsXoeanzIv/QK+pORPUL9TapnYXX1175pcEDcDpOGJA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Unit-Testing\\triangle-classifier-nunit\\TriangleClassifier\\TriangleClassifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thanh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

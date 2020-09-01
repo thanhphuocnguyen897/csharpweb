@@ -1,0 +1,13 @@
+D:\C#\Threadding\Access_Info_Thread\bin\Debug\netcoreapp3.1\Access_Info_Thread.exe
+D:\C#\Threadding\Access_Info_Thread\bin\Debug\netcoreapp3.1\Access_Info_Thread.deps.json
+D:\C#\Threadding\Access_Info_Thread\bin\Debug\netcoreapp3.1\Access_Info_Thread.runtimeconfig.json
+D:\C#\Threadding\Access_Info_Thread\bin\Debug\netcoreapp3.1\Access_Info_Thread.runtimeconfig.dev.json
+D:\C#\Threadding\Access_Info_Thread\bin\Debug\netcoreapp3.1\Access_Info_Thread.dll
+D:\C#\Threadding\Access_Info_Thread\bin\Debug\netcoreapp3.1\Access_Info_Thread.pdb
+D:\C#\Threadding\Access_Info_Thread\obj\Debug\netcoreapp3.1\Access_Info_Thread.csprojAssemblyReference.cache
+D:\C#\Threadding\Access_Info_Thread\obj\Debug\netcoreapp3.1\Access_Info_Thread.AssemblyInfoInputs.cache
+D:\C#\Threadding\Access_Info_Thread\obj\Debug\netcoreapp3.1\Access_Info_Thread.AssemblyInfo.cs
+D:\C#\Threadding\Access_Info_Thread\obj\Debug\netcoreapp3.1\Access_Info_Thread.csproj.CoreCompileInputs.cache
+D:\C#\Threadding\Access_Info_Thread\obj\Debug\netcoreapp3.1\Access_Info_Thread.dll
+D:\C#\Threadding\Access_Info_Thread\obj\Debug\netcoreapp3.1\Access_Info_Thread.pdb
+D:\C#\Threadding\Access_Info_Thread\obj\Debug\netcoreapp3.1\Access_Info_Thread.genruntimeconfig.cache

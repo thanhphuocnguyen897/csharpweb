@@ -1,0 +1,13 @@
+D:\C#\Collection2\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.exe
+D:\C#\Collection2\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.deps.json
+D:\C#\Collection2\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.runtimeconfig.json
+D:\C#\Collection2\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.runtimeconfig.dev.json
+D:\C#\Collection2\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.dll
+D:\C#\Collection2\DictionaryPractice\bin\Debug\netcoreapp3.1\DictionaryPractice.pdb
+D:\C#\Collection2\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.csprojAssemblyReference.cache
+D:\C#\Collection2\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.AssemblyInfoInputs.cache
+D:\C#\Collection2\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.AssemblyInfo.cs
+D:\C#\Collection2\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.dll
+D:\C#\Collection2\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.pdb
+D:\C#\Collection2\DictionaryPractice\obj\Debug\netcoreapp3.1\DictionaryPractice.genruntimeconfig.cache

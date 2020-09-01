@@ -1,0 +1,13 @@
+D:\C#\Threadding\CreateThreadExcercise\bin\Debug\netcoreapp3.1\CreateThreadExcercise.exe
+D:\C#\Threadding\CreateThreadExcercise\bin\Debug\netcoreapp3.1\CreateThreadExcercise.deps.json
+D:\C#\Threadding\CreateThreadExcercise\bin\Debug\netcoreapp3.1\CreateThreadExcercise.runtimeconfig.json
+D:\C#\Threadding\CreateThreadExcercise\bin\Debug\netcoreapp3.1\CreateThreadExcercise.runtimeconfig.dev.json
+D:\C#\Threadding\CreateThreadExcercise\bin\Debug\netcoreapp3.1\CreateThreadExcercise.dll
+D:\C#\Threadding\CreateThreadExcercise\bin\Debug\netcoreapp3.1\CreateThreadExcercise.pdb
+D:\C#\Threadding\CreateThreadExcercise\obj\Debug\netcoreapp3.1\CreateThreadExcercise.csprojAssemblyReference.cache
+D:\C#\Threadding\CreateThreadExcercise\obj\Debug\netcoreapp3.1\CreateThreadExcercise.AssemblyInfoInputs.cache
+D:\C#\Threadding\CreateThreadExcercise\obj\Debug\netcoreapp3.1\CreateThreadExcercise.AssemblyInfo.cs
+D:\C#\Threadding\CreateThreadExcercise\obj\Debug\netcoreapp3.1\CreateThreadExcercise.csproj.CoreCompileInputs.cache
+D:\C#\Threadding\CreateThreadExcercise\obj\Debug\netcoreapp3.1\CreateThreadExcercise.dll
+D:\C#\Threadding\CreateThreadExcercise\obj\Debug\netcoreapp3.1\CreateThreadExcercise.pdb
+D:\C#\Threadding\CreateThreadExcercise\obj\Debug\netcoreapp3.1\CreateThreadExcercise.genruntimeconfig.cache

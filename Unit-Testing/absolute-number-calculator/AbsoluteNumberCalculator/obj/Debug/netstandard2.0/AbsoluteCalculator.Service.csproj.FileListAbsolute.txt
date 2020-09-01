@@ -1,0 +1,9 @@
+D:\C#\Unit-Testing\absolute-number-calculator\AbsoluteNumberCalculator\bin\Debug\netstandard2.0\AbsoluteCalculator.Service.deps.json
+D:\C#\Unit-Testing\absolute-number-calculator\AbsoluteNumberCalculator\bin\Debug\netstandard2.0\AbsoluteCalculator.Service.dll
+D:\C#\Unit-Testing\absolute-number-calculator\AbsoluteNumberCalculator\bin\Debug\netstandard2.0\AbsoluteCalculator.Service.pdb
+D:\C#\Unit-Testing\absolute-number-calculator\AbsoluteNumberCalculator\obj\Debug\netstandard2.0\AbsoluteCalculator.Service.csprojAssemblyReference.cache
+D:\C#\Unit-Testing\absolute-number-calculator\AbsoluteNumberCalculator\obj\Debug\netstandard2.0\AbsoluteCalculator.Service.AssemblyInfoInputs.cache
+D:\C#\Unit-Testing\absolute-number-calculator\AbsoluteNumberCalculator\obj\Debug\netstandard2.0\AbsoluteCalculator.Service.AssemblyInfo.cs
+D:\C#\Unit-Testing\absolute-number-calculator\AbsoluteNumberCalculator\obj\Debug\netstandard2.0\AbsoluteCalculator.Service.csproj.CoreCompileInputs.cache
+D:\C#\Unit-Testing\absolute-number-calculator\AbsoluteNumberCalculator\obj\Debug\netstandard2.0\AbsoluteCalculator.Service.dll
+D:\C#\Unit-Testing\absolute-number-calculator\AbsoluteNumberCalculator\obj\Debug\netstandard2.0\AbsoluteCalculator.Service.pdb

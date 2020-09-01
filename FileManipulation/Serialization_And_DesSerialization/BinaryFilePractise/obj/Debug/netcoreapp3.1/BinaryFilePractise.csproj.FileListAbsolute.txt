@@ -1,0 +1,13 @@
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\bin\Debug\netcoreapp3.1\BinaryFilePractise.exe
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\bin\Debug\netcoreapp3.1\BinaryFilePractise.deps.json
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\bin\Debug\netcoreapp3.1\BinaryFilePractise.runtimeconfig.json
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\bin\Debug\netcoreapp3.1\BinaryFilePractise.runtimeconfig.dev.json
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\bin\Debug\netcoreapp3.1\BinaryFilePractise.dll
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\bin\Debug\netcoreapp3.1\BinaryFilePractise.pdb
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\obj\Debug\netcoreapp3.1\BinaryFilePractise.csprojAssemblyReference.cache
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\obj\Debug\netcoreapp3.1\BinaryFilePractise.AssemblyInfoInputs.cache
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\obj\Debug\netcoreapp3.1\BinaryFilePractise.AssemblyInfo.cs
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\obj\Debug\netcoreapp3.1\BinaryFilePractise.csproj.CoreCompileInputs.cache
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\obj\Debug\netcoreapp3.1\BinaryFilePractise.dll
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\obj\Debug\netcoreapp3.1\BinaryFilePractise.pdb
+D:\C#\FileManipulation\Serialization_And_DesSerialization\BinaryFilePractise\obj\Debug\netcoreapp3.1\BinaryFilePractise.genruntimeconfig.cache

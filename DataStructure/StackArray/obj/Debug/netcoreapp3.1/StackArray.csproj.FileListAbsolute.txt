@@ -1,0 +1,13 @@
+D:\C#\DataStructure\StackArray\bin\Debug\netcoreapp3.1\StackArray.exe
+D:\C#\DataStructure\StackArray\bin\Debug\netcoreapp3.1\StackArray.deps.json
+D:\C#\DataStructure\StackArray\bin\Debug\netcoreapp3.1\StackArray.runtimeconfig.json
+D:\C#\DataStructure\StackArray\bin\Debug\netcoreapp3.1\StackArray.runtimeconfig.dev.json
+D:\C#\DataStructure\StackArray\bin\Debug\netcoreapp3.1\StackArray.dll
+D:\C#\DataStructure\StackArray\bin\Debug\netcoreapp3.1\StackArray.pdb
+D:\C#\DataStructure\StackArray\obj\Debug\netcoreapp3.1\StackArray.csprojAssemblyReference.cache
+D:\C#\DataStructure\StackArray\obj\Debug\netcoreapp3.1\StackArray.AssemblyInfoInputs.cache
+D:\C#\DataStructure\StackArray\obj\Debug\netcoreapp3.1\StackArray.AssemblyInfo.cs
+D:\C#\DataStructure\StackArray\obj\Debug\netcoreapp3.1\StackArray.csproj.CoreCompileInputs.cache
+D:\C#\DataStructure\StackArray\obj\Debug\netcoreapp3.1\StackArray.dll
+D:\C#\DataStructure\StackArray\obj\Debug\netcoreapp3.1\StackArray.pdb
+D:\C#\DataStructure\StackArray\obj\Debug\netcoreapp3.1\StackArray.genruntimeconfig.cache

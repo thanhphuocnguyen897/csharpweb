@@ -1,0 +1,13 @@
+D:\C#\Inheritance\PoinandMovablePoint\bin\Debug\netcoreapp3.1\PoinandMovablePoint.exe
+D:\C#\Inheritance\PoinandMovablePoint\bin\Debug\netcoreapp3.1\PoinandMovablePoint.deps.json
+D:\C#\Inheritance\PoinandMovablePoint\bin\Debug\netcoreapp3.1\PoinandMovablePoint.runtimeconfig.json
+D:\C#\Inheritance\PoinandMovablePoint\bin\Debug\netcoreapp3.1\PoinandMovablePoint.runtimeconfig.dev.json
+D:\C#\Inheritance\PoinandMovablePoint\bin\Debug\netcoreapp3.1\PoinandMovablePoint.dll
+D:\C#\Inheritance\PoinandMovablePoint\bin\Debug\netcoreapp3.1\PoinandMovablePoint.pdb
+D:\C#\Inheritance\PoinandMovablePoint\obj\Debug\netcoreapp3.1\PoinandMovablePoint.csprojAssemblyReference.cache
+D:\C#\Inheritance\PoinandMovablePoint\obj\Debug\netcoreapp3.1\PoinandMovablePoint.AssemblyInfoInputs.cache
+D:\C#\Inheritance\PoinandMovablePoint\obj\Debug\netcoreapp3.1\PoinandMovablePoint.AssemblyInfo.cs
+D:\C#\Inheritance\PoinandMovablePoint\obj\Debug\netcoreapp3.1\PoinandMovablePoint.csproj.CoreCompileInputs.cache
+D:\C#\Inheritance\PoinandMovablePoint\obj\Debug\netcoreapp3.1\PoinandMovablePoint.dll
+D:\C#\Inheritance\PoinandMovablePoint\obj\Debug\netcoreapp3.1\PoinandMovablePoint.pdb
+D:\C#\Inheritance\PoinandMovablePoint\obj\Debug\netcoreapp3.1\PoinandMovablePoint.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\thanh\source\repos\ConvertMoney\bin\Debug\netcoreapp3.1\ConvertMoney.exe
+C:\Users\thanh\source\repos\ConvertMoney\bin\Debug\netcoreapp3.1\ConvertMoney.deps.json
+C:\Users\thanh\source\repos\ConvertMoney\bin\Debug\netcoreapp3.1\ConvertMoney.runtimeconfig.json
+C:\Users\thanh\source\repos\ConvertMoney\bin\Debug\netcoreapp3.1\ConvertMoney.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\ConvertMoney\bin\Debug\netcoreapp3.1\ConvertMoney.dll
+C:\Users\thanh\source\repos\ConvertMoney\bin\Debug\netcoreapp3.1\ConvertMoney.pdb
+C:\Users\thanh\source\repos\ConvertMoney\obj\Debug\netcoreapp3.1\ConvertMoney.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\ConvertMoney\obj\Debug\netcoreapp3.1\ConvertMoney.AssemblyInfo.cs
+C:\Users\thanh\source\repos\ConvertMoney\obj\Debug\netcoreapp3.1\ConvertMoney.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\ConvertMoney\obj\Debug\netcoreapp3.1\ConvertMoney.dll
+C:\Users\thanh\source\repos\ConvertMoney\obj\Debug\netcoreapp3.1\ConvertMoney.pdb
+C:\Users\thanh\source\repos\ConvertMoney\obj\Debug\netcoreapp3.1\ConvertMoney.genruntimeconfig.cache

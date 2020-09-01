@@ -1,0 +1,13 @@
+D:\C#\StringinC#\Regex_Excercise1\bin\Debug\netcoreapp3.1\Regex_Excercise1.exe
+D:\C#\StringinC#\Regex_Excercise1\bin\Debug\netcoreapp3.1\Regex_Excercise1.deps.json
+D:\C#\StringinC#\Regex_Excercise1\bin\Debug\netcoreapp3.1\Regex_Excercise1.runtimeconfig.json
+D:\C#\StringinC#\Regex_Excercise1\bin\Debug\netcoreapp3.1\Regex_Excercise1.runtimeconfig.dev.json
+D:\C#\StringinC#\Regex_Excercise1\bin\Debug\netcoreapp3.1\Regex_Excercise1.dll
+D:\C#\StringinC#\Regex_Excercise1\bin\Debug\netcoreapp3.1\Regex_Excercise1.pdb
+D:\C#\StringinC#\Regex_Excercise1\obj\Debug\netcoreapp3.1\Regex_Excercise1.csprojAssemblyReference.cache
+D:\C#\StringinC#\Regex_Excercise1\obj\Debug\netcoreapp3.1\Regex_Excercise1.AssemblyInfoInputs.cache
+D:\C#\StringinC#\Regex_Excercise1\obj\Debug\netcoreapp3.1\Regex_Excercise1.AssemblyInfo.cs
+D:\C#\StringinC#\Regex_Excercise1\obj\Debug\netcoreapp3.1\Regex_Excercise1.csproj.CoreCompileInputs.cache
+D:\C#\StringinC#\Regex_Excercise1\obj\Debug\netcoreapp3.1\Regex_Excercise1.dll
+D:\C#\StringinC#\Regex_Excercise1\obj\Debug\netcoreapp3.1\Regex_Excercise1.pdb
+D:\C#\StringinC#\Regex_Excercise1\obj\Debug\netcoreapp3.1\Regex_Excercise1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\Collection2\ListGenericSample\obj\Debug\netcoreapp3.1\ListGenericSample.csprojAssemblyReference.cache
+D:\C#\Collection2\ListGenericSample\obj\Debug\netcoreapp3.1\ListGenericSample.AssemblyInfoInputs.cache
+D:\C#\Collection2\ListGenericSample\obj\Debug\netcoreapp3.1\ListGenericSample.AssemblyInfo.cs
+D:\C#\Collection2\ListGenericSample\obj\Debug\netcoreapp3.1\ListGenericSample.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\ListGenericSample\bin\Debug\netcoreapp3.1\ListGenericSample.exe
+D:\C#\Collection2\ListGenericSample\bin\Debug\netcoreapp3.1\ListGenericSample.deps.json
+D:\C#\Collection2\ListGenericSample\bin\Debug\netcoreapp3.1\ListGenericSample.runtimeconfig.json
+D:\C#\Collection2\ListGenericSample\bin\Debug\netcoreapp3.1\ListGenericSample.runtimeconfig.dev.json
+D:\C#\Collection2\ListGenericSample\bin\Debug\netcoreapp3.1\ListGenericSample.dll
+D:\C#\Collection2\ListGenericSample\bin\Debug\netcoreapp3.1\ListGenericSample.pdb
+D:\C#\Collection2\ListGenericSample\obj\Debug\netcoreapp3.1\ListGenericSample.dll
+D:\C#\Collection2\ListGenericSample\obj\Debug\netcoreapp3.1\ListGenericSample.pdb
+D:\C#\Collection2\ListGenericSample\obj\Debug\netcoreapp3.1\ListGenericSample.genruntimeconfig.cache

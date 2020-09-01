@@ -1,0 +1,13 @@
+D:\C#\Collection2\SampleSortedList\bin\Debug\netcoreapp3.1\SampleSortedList.exe
+D:\C#\Collection2\SampleSortedList\bin\Debug\netcoreapp3.1\SampleSortedList.deps.json
+D:\C#\Collection2\SampleSortedList\bin\Debug\netcoreapp3.1\SampleSortedList.runtimeconfig.json
+D:\C#\Collection2\SampleSortedList\bin\Debug\netcoreapp3.1\SampleSortedList.runtimeconfig.dev.json
+D:\C#\Collection2\SampleSortedList\bin\Debug\netcoreapp3.1\SampleSortedList.dll
+D:\C#\Collection2\SampleSortedList\bin\Debug\netcoreapp3.1\SampleSortedList.pdb
+D:\C#\Collection2\SampleSortedList\obj\Debug\netcoreapp3.1\SampleSortedList.csprojAssemblyReference.cache
+D:\C#\Collection2\SampleSortedList\obj\Debug\netcoreapp3.1\SampleSortedList.AssemblyInfoInputs.cache
+D:\C#\Collection2\SampleSortedList\obj\Debug\netcoreapp3.1\SampleSortedList.AssemblyInfo.cs
+D:\C#\Collection2\SampleSortedList\obj\Debug\netcoreapp3.1\SampleSortedList.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\SampleSortedList\obj\Debug\netcoreapp3.1\SampleSortedList.dll
+D:\C#\Collection2\SampleSortedList\obj\Debug\netcoreapp3.1\SampleSortedList.pdb
+D:\C#\Collection2\SampleSortedList\obj\Debug\netcoreapp3.1\SampleSortedList.genruntimeconfig.cache

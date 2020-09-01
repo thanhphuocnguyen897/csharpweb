@@ -1,0 +1,13 @@
+D:\C#\SearchAgorithm\SortedStringComplexity\bin\Debug\netcoreapp3.1\SortedStringComplexity.exe
+D:\C#\SearchAgorithm\SortedStringComplexity\bin\Debug\netcoreapp3.1\SortedStringComplexity.deps.json
+D:\C#\SearchAgorithm\SortedStringComplexity\bin\Debug\netcoreapp3.1\SortedStringComplexity.runtimeconfig.json
+D:\C#\SearchAgorithm\SortedStringComplexity\bin\Debug\netcoreapp3.1\SortedStringComplexity.runtimeconfig.dev.json
+D:\C#\SearchAgorithm\SortedStringComplexity\bin\Debug\netcoreapp3.1\SortedStringComplexity.dll
+D:\C#\SearchAgorithm\SortedStringComplexity\bin\Debug\netcoreapp3.1\SortedStringComplexity.pdb
+D:\C#\SearchAgorithm\SortedStringComplexity\obj\Debug\netcoreapp3.1\SortedStringComplexity.csprojAssemblyReference.cache
+D:\C#\SearchAgorithm\SortedStringComplexity\obj\Debug\netcoreapp3.1\SortedStringComplexity.AssemblyInfoInputs.cache
+D:\C#\SearchAgorithm\SortedStringComplexity\obj\Debug\netcoreapp3.1\SortedStringComplexity.AssemblyInfo.cs
+D:\C#\SearchAgorithm\SortedStringComplexity\obj\Debug\netcoreapp3.1\SortedStringComplexity.csproj.CoreCompileInputs.cache
+D:\C#\SearchAgorithm\SortedStringComplexity\obj\Debug\netcoreapp3.1\SortedStringComplexity.dll
+D:\C#\SearchAgorithm\SortedStringComplexity\obj\Debug\netcoreapp3.1\SortedStringComplexity.pdb
+D:\C#\SearchAgorithm\SortedStringComplexity\obj\Debug\netcoreapp3.1\SortedStringComplexity.genruntimeconfig.cache

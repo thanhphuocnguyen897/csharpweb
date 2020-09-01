@@ -1,0 +1,13 @@
+D:\C#\Collection2\HashtableDemo\bin\Debug\netcoreapp3.1\HashtableDemo.exe
+D:\C#\Collection2\HashtableDemo\bin\Debug\netcoreapp3.1\HashtableDemo.deps.json
+D:\C#\Collection2\HashtableDemo\bin\Debug\netcoreapp3.1\HashtableDemo.runtimeconfig.json
+D:\C#\Collection2\HashtableDemo\bin\Debug\netcoreapp3.1\HashtableDemo.runtimeconfig.dev.json
+D:\C#\Collection2\HashtableDemo\bin\Debug\netcoreapp3.1\HashtableDemo.dll
+D:\C#\Collection2\HashtableDemo\bin\Debug\netcoreapp3.1\HashtableDemo.pdb
+D:\C#\Collection2\HashtableDemo\obj\Debug\netcoreapp3.1\HashtableDemo.csprojAssemblyReference.cache
+D:\C#\Collection2\HashtableDemo\obj\Debug\netcoreapp3.1\HashtableDemo.AssemblyInfoInputs.cache
+D:\C#\Collection2\HashtableDemo\obj\Debug\netcoreapp3.1\HashtableDemo.AssemblyInfo.cs
+D:\C#\Collection2\HashtableDemo\obj\Debug\netcoreapp3.1\HashtableDemo.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\HashtableDemo\obj\Debug\netcoreapp3.1\HashtableDemo.dll
+D:\C#\Collection2\HashtableDemo\obj\Debug\netcoreapp3.1\HashtableDemo.pdb
+D:\C#\Collection2\HashtableDemo\obj\Debug\netcoreapp3.1\HashtableDemo.genruntimeconfig.cache

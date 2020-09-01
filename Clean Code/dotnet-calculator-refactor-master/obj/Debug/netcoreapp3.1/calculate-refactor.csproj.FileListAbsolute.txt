@@ -1,0 +1,24 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor.runtimeconfig.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor.runtimeconfig.dev.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/bin/Debug/netcoreapp3.1/calculate-refactor.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/obj/Debug/netcoreapp3.1/calculate-refactor.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/obj/Debug/netcoreapp3.1/calculate-refactor.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/obj/Debug/netcoreapp3.1/calculate-refactor.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/obj/Debug/netcoreapp3.1/calculate-refactor.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Clean Code/calculate-refactor/obj/Debug/netcoreapp3.1/calculate-refactor.pdb
+D:\C#\Clean Code\dotnet-calculator-refactor-master\bin\Debug\netcoreapp3.1\calculate-refactor.exe
+D:\C#\Clean Code\dotnet-calculator-refactor-master\bin\Debug\netcoreapp3.1\calculate-refactor.deps.json
+D:\C#\Clean Code\dotnet-calculator-refactor-master\bin\Debug\netcoreapp3.1\calculate-refactor.runtimeconfig.json
+D:\C#\Clean Code\dotnet-calculator-refactor-master\bin\Debug\netcoreapp3.1\calculate-refactor.runtimeconfig.dev.json
+D:\C#\Clean Code\dotnet-calculator-refactor-master\bin\Debug\netcoreapp3.1\calculate-refactor.dll
+D:\C#\Clean Code\dotnet-calculator-refactor-master\bin\Debug\netcoreapp3.1\calculate-refactor.pdb
+D:\C#\Clean Code\dotnet-calculator-refactor-master\obj\Debug\netcoreapp3.1\calculate-refactor.csprojAssemblyReference.cache
+D:\C#\Clean Code\dotnet-calculator-refactor-master\obj\Debug\netcoreapp3.1\calculate-refactor.AssemblyInfoInputs.cache
+D:\C#\Clean Code\dotnet-calculator-refactor-master\obj\Debug\netcoreapp3.1\calculate-refactor.AssemblyInfo.cs
+D:\C#\Clean Code\dotnet-calculator-refactor-master\obj\Debug\netcoreapp3.1\calculate-refactor.csproj.CoreCompileInputs.cache
+D:\C#\Clean Code\dotnet-calculator-refactor-master\obj\Debug\netcoreapp3.1\calculate-refactor.dll
+D:\C#\Clean Code\dotnet-calculator-refactor-master\obj\Debug\netcoreapp3.1\calculate-refactor.pdb
+D:\C#\Clean Code\dotnet-calculator-refactor-master\obj\Debug\netcoreapp3.1\calculate-refactor.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.exe
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.deps.json
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.runtimeconfig.json
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.runtimeconfig.dev.json
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.dll
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.pdb
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.csprojAssemblyReference.cache
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.AssemblyInfoInputs.cache
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.AssemblyInfo.cs
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.csproj.CoreCompileInputs.cache
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.dll
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.pdb
+D:\C#\SearchAgorithm\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\Unit-Testing\SpellingNumberToWord\bin\Debug\netcoreapp3.1\SpellingNumberToWord.exe
+D:\C#\Unit-Testing\SpellingNumberToWord\bin\Debug\netcoreapp3.1\SpellingNumberToWord.deps.json
+D:\C#\Unit-Testing\SpellingNumberToWord\bin\Debug\netcoreapp3.1\SpellingNumberToWord.runtimeconfig.json
+D:\C#\Unit-Testing\SpellingNumberToWord\bin\Debug\netcoreapp3.1\SpellingNumberToWord.runtimeconfig.dev.json
+D:\C#\Unit-Testing\SpellingNumberToWord\bin\Debug\netcoreapp3.1\SpellingNumberToWord.dll
+D:\C#\Unit-Testing\SpellingNumberToWord\bin\Debug\netcoreapp3.1\SpellingNumberToWord.pdb
+D:\C#\Unit-Testing\SpellingNumberToWord\obj\Debug\netcoreapp3.1\SpellingNumberToWord.csprojAssemblyReference.cache
+D:\C#\Unit-Testing\SpellingNumberToWord\obj\Debug\netcoreapp3.1\SpellingNumberToWord.AssemblyInfoInputs.cache
+D:\C#\Unit-Testing\SpellingNumberToWord\obj\Debug\netcoreapp3.1\SpellingNumberToWord.AssemblyInfo.cs
+D:\C#\Unit-Testing\SpellingNumberToWord\obj\Debug\netcoreapp3.1\SpellingNumberToWord.csproj.CoreCompileInputs.cache
+D:\C#\Unit-Testing\SpellingNumberToWord\obj\Debug\netcoreapp3.1\SpellingNumberToWord.dll
+D:\C#\Unit-Testing\SpellingNumberToWord\obj\Debug\netcoreapp3.1\SpellingNumberToWord.pdb
+D:\C#\Unit-Testing\SpellingNumberToWord\obj\Debug\netcoreapp3.1\SpellingNumberToWord.genruntimeconfig.cache

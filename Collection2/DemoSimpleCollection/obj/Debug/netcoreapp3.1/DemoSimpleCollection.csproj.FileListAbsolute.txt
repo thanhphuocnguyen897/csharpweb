@@ -1,0 +1,13 @@
+D:\C#\Collection2\DemoSimpleCollection\bin\Debug\netcoreapp3.1\DemoSimpleCollection.exe
+D:\C#\Collection2\DemoSimpleCollection\bin\Debug\netcoreapp3.1\DemoSimpleCollection.deps.json
+D:\C#\Collection2\DemoSimpleCollection\bin\Debug\netcoreapp3.1\DemoSimpleCollection.runtimeconfig.json
+D:\C#\Collection2\DemoSimpleCollection\bin\Debug\netcoreapp3.1\DemoSimpleCollection.runtimeconfig.dev.json
+D:\C#\Collection2\DemoSimpleCollection\bin\Debug\netcoreapp3.1\DemoSimpleCollection.dll
+D:\C#\Collection2\DemoSimpleCollection\bin\Debug\netcoreapp3.1\DemoSimpleCollection.pdb
+D:\C#\Collection2\DemoSimpleCollection\obj\Debug\netcoreapp3.1\DemoSimpleCollection.csprojAssemblyReference.cache
+D:\C#\Collection2\DemoSimpleCollection\obj\Debug\netcoreapp3.1\DemoSimpleCollection.AssemblyInfoInputs.cache
+D:\C#\Collection2\DemoSimpleCollection\obj\Debug\netcoreapp3.1\DemoSimpleCollection.AssemblyInfo.cs
+D:\C#\Collection2\DemoSimpleCollection\obj\Debug\netcoreapp3.1\DemoSimpleCollection.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\DemoSimpleCollection\obj\Debug\netcoreapp3.1\DemoSimpleCollection.dll
+D:\C#\Collection2\DemoSimpleCollection\obj\Debug\netcoreapp3.1\DemoSimpleCollection.pdb
+D:\C#\Collection2\DemoSimpleCollection\obj\Debug\netcoreapp3.1\DemoSimpleCollection.genruntimeconfig.cache

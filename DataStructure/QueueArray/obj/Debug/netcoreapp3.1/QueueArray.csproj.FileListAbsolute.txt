@@ -1,0 +1,13 @@
+D:\C#\DataStructure\QueueArray\bin\Debug\netcoreapp3.1\QueueArray.exe
+D:\C#\DataStructure\QueueArray\bin\Debug\netcoreapp3.1\QueueArray.deps.json
+D:\C#\DataStructure\QueueArray\bin\Debug\netcoreapp3.1\QueueArray.runtimeconfig.json
+D:\C#\DataStructure\QueueArray\bin\Debug\netcoreapp3.1\QueueArray.runtimeconfig.dev.json
+D:\C#\DataStructure\QueueArray\bin\Debug\netcoreapp3.1\QueueArray.dll
+D:\C#\DataStructure\QueueArray\bin\Debug\netcoreapp3.1\QueueArray.pdb
+D:\C#\DataStructure\QueueArray\obj\Debug\netcoreapp3.1\QueueArray.csprojAssemblyReference.cache
+D:\C#\DataStructure\QueueArray\obj\Debug\netcoreapp3.1\QueueArray.AssemblyInfoInputs.cache
+D:\C#\DataStructure\QueueArray\obj\Debug\netcoreapp3.1\QueueArray.AssemblyInfo.cs
+D:\C#\DataStructure\QueueArray\obj\Debug\netcoreapp3.1\QueueArray.csproj.CoreCompileInputs.cache
+D:\C#\DataStructure\QueueArray\obj\Debug\netcoreapp3.1\QueueArray.dll
+D:\C#\DataStructure\QueueArray\obj\Debug\netcoreapp3.1\QueueArray.pdb
+D:\C#\DataStructure\QueueArray\obj\Debug\netcoreapp3.1\QueueArray.genruntimeconfig.cache

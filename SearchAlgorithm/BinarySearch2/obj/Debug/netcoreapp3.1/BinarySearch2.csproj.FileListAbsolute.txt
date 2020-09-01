@@ -1,0 +1,13 @@
+D:\C#\FindingAgorithm\BinarySearch2\bin\Debug\netcoreapp3.1\BinarySearch2.exe
+D:\C#\FindingAgorithm\BinarySearch2\bin\Debug\netcoreapp3.1\BinarySearch2.deps.json
+D:\C#\FindingAgorithm\BinarySearch2\bin\Debug\netcoreapp3.1\BinarySearch2.runtimeconfig.json
+D:\C#\FindingAgorithm\BinarySearch2\bin\Debug\netcoreapp3.1\BinarySearch2.runtimeconfig.dev.json
+D:\C#\FindingAgorithm\BinarySearch2\bin\Debug\netcoreapp3.1\BinarySearch2.dll
+D:\C#\FindingAgorithm\BinarySearch2\bin\Debug\netcoreapp3.1\BinarySearch2.pdb
+D:\C#\FindingAgorithm\BinarySearch2\obj\Debug\netcoreapp3.1\BinarySearch2.csprojAssemblyReference.cache
+D:\C#\FindingAgorithm\BinarySearch2\obj\Debug\netcoreapp3.1\BinarySearch2.AssemblyInfoInputs.cache
+D:\C#\FindingAgorithm\BinarySearch2\obj\Debug\netcoreapp3.1\BinarySearch2.AssemblyInfo.cs
+D:\C#\FindingAgorithm\BinarySearch2\obj\Debug\netcoreapp3.1\BinarySearch2.csproj.CoreCompileInputs.cache
+D:\C#\FindingAgorithm\BinarySearch2\obj\Debug\netcoreapp3.1\BinarySearch2.dll
+D:\C#\FindingAgorithm\BinarySearch2\obj\Debug\netcoreapp3.1\BinarySearch2.pdb
+D:\C#\FindingAgorithm\BinarySearch2\obj\Debug\netcoreapp3.1\BinarySearch2.genruntimeconfig.cache

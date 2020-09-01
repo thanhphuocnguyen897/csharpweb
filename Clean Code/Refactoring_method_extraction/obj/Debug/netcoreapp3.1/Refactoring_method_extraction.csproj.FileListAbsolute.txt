@@ -1,0 +1,13 @@
+D:\C#\Clean Code\Refactoring_method_extraction\bin\Debug\netcoreapp3.1\Refactoring_method_extraction.exe
+D:\C#\Clean Code\Refactoring_method_extraction\bin\Debug\netcoreapp3.1\Refactoring_method_extraction.deps.json
+D:\C#\Clean Code\Refactoring_method_extraction\bin\Debug\netcoreapp3.1\Refactoring_method_extraction.runtimeconfig.json
+D:\C#\Clean Code\Refactoring_method_extraction\bin\Debug\netcoreapp3.1\Refactoring_method_extraction.runtimeconfig.dev.json
+D:\C#\Clean Code\Refactoring_method_extraction\bin\Debug\netcoreapp3.1\Refactoring_method_extraction.dll
+D:\C#\Clean Code\Refactoring_method_extraction\bin\Debug\netcoreapp3.1\Refactoring_method_extraction.pdb
+D:\C#\Clean Code\Refactoring_method_extraction\obj\Debug\netcoreapp3.1\Refactoring_method_extraction.csprojAssemblyReference.cache
+D:\C#\Clean Code\Refactoring_method_extraction\obj\Debug\netcoreapp3.1\Refactoring_method_extraction.AssemblyInfoInputs.cache
+D:\C#\Clean Code\Refactoring_method_extraction\obj\Debug\netcoreapp3.1\Refactoring_method_extraction.AssemblyInfo.cs
+D:\C#\Clean Code\Refactoring_method_extraction\obj\Debug\netcoreapp3.1\Refactoring_method_extraction.csproj.CoreCompileInputs.cache
+D:\C#\Clean Code\Refactoring_method_extraction\obj\Debug\netcoreapp3.1\Refactoring_method_extraction.dll
+D:\C#\Clean Code\Refactoring_method_extraction\obj\Debug\netcoreapp3.1\Refactoring_method_extraction.pdb
+D:\C#\Clean Code\Refactoring_method_extraction\obj\Debug\netcoreapp3.1\Refactoring_method_extraction.genruntimeconfig.cache

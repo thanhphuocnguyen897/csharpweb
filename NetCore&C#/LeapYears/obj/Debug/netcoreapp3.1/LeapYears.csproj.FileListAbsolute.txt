@@ -1,0 +1,12 @@
+D:\C#\LeapYears\bin\Debug\netcoreapp3.1\LeapYears.exe
+D:\C#\LeapYears\bin\Debug\netcoreapp3.1\LeapYears.deps.json
+D:\C#\LeapYears\bin\Debug\netcoreapp3.1\LeapYears.runtimeconfig.json
+D:\C#\LeapYears\bin\Debug\netcoreapp3.1\LeapYears.runtimeconfig.dev.json
+D:\C#\LeapYears\bin\Debug\netcoreapp3.1\LeapYears.dll
+D:\C#\LeapYears\bin\Debug\netcoreapp3.1\LeapYears.pdb
+D:\C#\LeapYears\obj\Debug\netcoreapp3.1\LeapYears.AssemblyInfoInputs.cache
+D:\C#\LeapYears\obj\Debug\netcoreapp3.1\LeapYears.AssemblyInfo.cs
+D:\C#\LeapYears\obj\Debug\netcoreapp3.1\LeapYears.csproj.CoreCompileInputs.cache
+D:\C#\LeapYears\obj\Debug\netcoreapp3.1\LeapYears.dll
+D:\C#\LeapYears\obj\Debug\netcoreapp3.1\LeapYears.pdb
+D:\C#\LeapYears\obj\Debug\netcoreapp3.1\LeapYears.genruntimeconfig.cache

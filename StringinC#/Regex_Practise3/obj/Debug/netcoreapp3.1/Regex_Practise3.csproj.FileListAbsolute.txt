@@ -1,0 +1,17 @@
+D:\C#\StringinC#\Regex_Practise3\bin\Debug\netcoreapp3.1\Regex_Practise3.exe
+D:\C#\StringinC#\Regex_Practise3\obj\Debug\netcoreapp3.1\Regex_Practise3.AssemblyInfoInputs.cache
+D:\C#\StringinC#\Regex_Practise3\obj\Debug\netcoreapp3.1\Regex_Practise3.AssemblyInfo.cs
+D:\C#\StringinC#\Regex_Practise3\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\C#\StringinC#\Regex_Practise3\obj\Debug\netcoreapp3.1\Regex_Practise3.csprojAssemblyReference.cache
+D:\C#\StringinC#\Regex_Practise3\obj\Debug\netcoreapp3.1\Regex_Practise3.csproj.CopyComplete
+D:\C#\StringinC#\Regex_Practise3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\C#\StringinC#\Regex_Practise3\bin\Debug\netcoreapp3.1\Regex_Practise3.deps.json
+D:\C#\StringinC#\Regex_Practise3\bin\Debug\netcoreapp3.1\Regex_Practise3.runtimeconfig.json
+D:\C#\StringinC#\Regex_Practise3\bin\Debug\netcoreapp3.1\Regex_Practise3.runtimeconfig.dev.json
+D:\C#\StringinC#\Regex_Practise3\bin\Debug\netcoreapp3.1\Regex_Practise3.dll
+D:\C#\StringinC#\Regex_Practise3\bin\Debug\netcoreapp3.1\Regex_Practise3.pdb
+D:\C#\StringinC#\Regex_Practise3\obj\Debug\netcoreapp3.1\Regex_Practise3.dll
+D:\C#\StringinC#\Regex_Practise3\obj\Debug\netcoreapp3.1\Regex_Practise3.pdb
+D:\C#\StringinC#\Regex_Practise3\obj\Debug\netcoreapp3.1\Regex_Practise3.genruntimeconfig.cache
+D:\C#\StringinC#\Regex_Practise3\bin\Debug\netcoreapp3.1\NeoSmart.Unicode.dll
+D:\C#\StringinC#\Regex_Practise3\obj\Debug\netcoreapp3.1\Regex_Practise3.csproj.CoreCompileInputs.cache

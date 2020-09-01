@@ -1,0 +1,12 @@
+D:\C#\Collection2\ArrayListandLinQExcercise\bin\Debug\netcoreapp3.1\ArrayListandLinQExcercise.exe
+D:\C#\Collection2\ArrayListandLinQExcercise\bin\Debug\netcoreapp3.1\ArrayListandLinQExcercise.deps.json
+D:\C#\Collection2\ArrayListandLinQExcercise\bin\Debug\netcoreapp3.1\ArrayListandLinQExcercise.runtimeconfig.json
+D:\C#\Collection2\ArrayListandLinQExcercise\bin\Debug\netcoreapp3.1\ArrayListandLinQExcercise.runtimeconfig.dev.json
+D:\C#\Collection2\ArrayListandLinQExcercise\bin\Debug\netcoreapp3.1\ArrayListandLinQExcercise.dll
+D:\C#\Collection2\ArrayListandLinQExcercise\bin\Debug\netcoreapp3.1\ArrayListandLinQExcercise.pdb
+D:\C#\Collection2\ArrayListandLinQExcercise\obj\Debug\netcoreapp3.1\ArrayListandLinQExcercise.csprojAssemblyReference.cache
+D:\C#\Collection2\ArrayListandLinQExcercise\obj\Debug\netcoreapp3.1\ArrayListandLinQExcercise.AssemblyInfoInputs.cache
+D:\C#\Collection2\ArrayListandLinQExcercise\obj\Debug\netcoreapp3.1\ArrayListandLinQExcercise.AssemblyInfo.cs
+D:\C#\Collection2\ArrayListandLinQExcercise\obj\Debug\netcoreapp3.1\ArrayListandLinQExcercise.dll
+D:\C#\Collection2\ArrayListandLinQExcercise\obj\Debug\netcoreapp3.1\ArrayListandLinQExcercise.pdb
+D:\C#\Collection2\ArrayListandLinQExcercise\obj\Debug\netcoreapp3.1\ArrayListandLinQExcercise.genruntimeconfig.cache

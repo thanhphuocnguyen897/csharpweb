@@ -1,0 +1,12 @@
+D:\C#\Method&Array\Array1DSample1\bin\Debug\netcoreapp3.1\Array1DSample1.exe
+D:\C#\Method&Array\Array1DSample1\bin\Debug\netcoreapp3.1\Array1DSample1.deps.json
+D:\C#\Method&Array\Array1DSample1\bin\Debug\netcoreapp3.1\Array1DSample1.runtimeconfig.json
+D:\C#\Method&Array\Array1DSample1\bin\Debug\netcoreapp3.1\Array1DSample1.runtimeconfig.dev.json
+D:\C#\Method&Array\Array1DSample1\bin\Debug\netcoreapp3.1\Array1DSample1.dll
+D:\C#\Method&Array\Array1DSample1\bin\Debug\netcoreapp3.1\Array1DSample1.pdb
+D:\C#\Method&Array\Array1DSample1\obj\Debug\netcoreapp3.1\Array1DSample1.AssemblyInfoInputs.cache
+D:\C#\Method&Array\Array1DSample1\obj\Debug\netcoreapp3.1\Array1DSample1.AssemblyInfo.cs
+D:\C#\Method&Array\Array1DSample1\obj\Debug\netcoreapp3.1\Array1DSample1.csproj.CoreCompileInputs.cache
+D:\C#\Method&Array\Array1DSample1\obj\Debug\netcoreapp3.1\Array1DSample1.dll
+D:\C#\Method&Array\Array1DSample1\obj\Debug\netcoreapp3.1\Array1DSample1.pdb
+D:\C#\Method&Array\Array1DSample1\obj\Debug\netcoreapp3.1\Array1DSample1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\Class\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.exe
+D:\C#\Class\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.deps.json
+D:\C#\Class\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.json
+D:\C#\Class\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.dev.json
+D:\C#\Class\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.dll
+D:\C#\Class\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.pdb
+D:\C#\Class\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csprojAssemblyReference.cache
+D:\C#\Class\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfoInputs.cache
+D:\C#\Class\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfo.cs
+D:\C#\Class\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csproj.CoreCompileInputs.cache
+D:\C#\Class\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.dll
+D:\C#\Class\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.pdb
+D:\C#\Class\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\StringinC#\Regex_Class\bin\Debug\netcoreapp3.1\Regex_Class.exe
+D:\C#\StringinC#\Regex_Class\bin\Debug\netcoreapp3.1\Regex_Class.deps.json
+D:\C#\StringinC#\Regex_Class\bin\Debug\netcoreapp3.1\Regex_Class.runtimeconfig.json
+D:\C#\StringinC#\Regex_Class\bin\Debug\netcoreapp3.1\Regex_Class.runtimeconfig.dev.json
+D:\C#\StringinC#\Regex_Class\bin\Debug\netcoreapp3.1\Regex_Class.dll
+D:\C#\StringinC#\Regex_Class\bin\Debug\netcoreapp3.1\Regex_Class.pdb
+D:\C#\StringinC#\Regex_Class\obj\Debug\netcoreapp3.1\Regex_Class.csprojAssemblyReference.cache
+D:\C#\StringinC#\Regex_Class\obj\Debug\netcoreapp3.1\Regex_Class.AssemblyInfoInputs.cache
+D:\C#\StringinC#\Regex_Class\obj\Debug\netcoreapp3.1\Regex_Class.AssemblyInfo.cs
+D:\C#\StringinC#\Regex_Class\obj\Debug\netcoreapp3.1\Regex_Class.csproj.CoreCompileInputs.cache
+D:\C#\StringinC#\Regex_Class\obj\Debug\netcoreapp3.1\Regex_Class.dll
+D:\C#\StringinC#\Regex_Class\obj\Debug\netcoreapp3.1\Regex_Class.pdb
+D:\C#\StringinC#\Regex_Class\obj\Debug\netcoreapp3.1\Regex_Class.genruntimeconfig.cache

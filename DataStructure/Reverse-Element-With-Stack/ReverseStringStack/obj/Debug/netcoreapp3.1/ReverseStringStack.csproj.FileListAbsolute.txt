@@ -1,0 +1,13 @@
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\bin\Debug\netcoreapp3.1\ReverseStringStack.exe
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\bin\Debug\netcoreapp3.1\ReverseStringStack.deps.json
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\bin\Debug\netcoreapp3.1\ReverseStringStack.runtimeconfig.json
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\bin\Debug\netcoreapp3.1\ReverseStringStack.runtimeconfig.dev.json
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\bin\Debug\netcoreapp3.1\ReverseStringStack.dll
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\bin\Debug\netcoreapp3.1\ReverseStringStack.pdb
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\obj\Debug\netcoreapp3.1\ReverseStringStack.csprojAssemblyReference.cache
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\obj\Debug\netcoreapp3.1\ReverseStringStack.AssemblyInfoInputs.cache
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\obj\Debug\netcoreapp3.1\ReverseStringStack.AssemblyInfo.cs
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\obj\Debug\netcoreapp3.1\ReverseStringStack.csproj.CoreCompileInputs.cache
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\obj\Debug\netcoreapp3.1\ReverseStringStack.dll
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\obj\Debug\netcoreapp3.1\ReverseStringStack.pdb
+D:\C#\DataStructure\Reverse-Element-With-Stack\ReverseStringStack\obj\Debug\netcoreapp3.1\ReverseStringStack.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\thanh\source\repos\Draw\bin\Debug\netcoreapp3.1\Draw.exe
+C:\Users\thanh\source\repos\Draw\bin\Debug\netcoreapp3.1\Draw.deps.json
+C:\Users\thanh\source\repos\Draw\bin\Debug\netcoreapp3.1\Draw.runtimeconfig.json
+C:\Users\thanh\source\repos\Draw\bin\Debug\netcoreapp3.1\Draw.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\Draw\bin\Debug\netcoreapp3.1\Draw.dll
+C:\Users\thanh\source\repos\Draw\bin\Debug\netcoreapp3.1\Draw.pdb
+C:\Users\thanh\source\repos\Draw\obj\Debug\netcoreapp3.1\Draw.csprojAssemblyReference.cache
+C:\Users\thanh\source\repos\Draw\obj\Debug\netcoreapp3.1\Draw.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\Draw\obj\Debug\netcoreapp3.1\Draw.AssemblyInfo.cs
+C:\Users\thanh\source\repos\Draw\obj\Debug\netcoreapp3.1\Draw.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\Draw\obj\Debug\netcoreapp3.1\Draw.dll
+C:\Users\thanh\source\repos\Draw\obj\Debug\netcoreapp3.1\Draw.pdb
+C:\Users\thanh\source\repos\Draw\obj\Debug\netcoreapp3.1\Draw.genruntimeconfig.cache

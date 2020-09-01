@@ -1,0 +1,12 @@
+D:\C#\Error&Exception\Format_Exception\bin\Debug\netcoreapp3.1\Format_Exception.exe
+D:\C#\Error&Exception\Format_Exception\bin\Debug\netcoreapp3.1\Format_Exception.deps.json
+D:\C#\Error&Exception\Format_Exception\bin\Debug\netcoreapp3.1\Format_Exception.runtimeconfig.json
+D:\C#\Error&Exception\Format_Exception\bin\Debug\netcoreapp3.1\Format_Exception.runtimeconfig.dev.json
+D:\C#\Error&Exception\Format_Exception\bin\Debug\netcoreapp3.1\Format_Exception.dll
+D:\C#\Error&Exception\Format_Exception\bin\Debug\netcoreapp3.1\Format_Exception.pdb
+D:\C#\Error&Exception\Format_Exception\obj\Debug\netcoreapp3.1\Format_Exception.AssemblyInfoInputs.cache
+D:\C#\Error&Exception\Format_Exception\obj\Debug\netcoreapp3.1\Format_Exception.AssemblyInfo.cs
+D:\C#\Error&Exception\Format_Exception\obj\Debug\netcoreapp3.1\Format_Exception.csproj.CoreCompileInputs.cache
+D:\C#\Error&Exception\Format_Exception\obj\Debug\netcoreapp3.1\Format_Exception.dll
+D:\C#\Error&Exception\Format_Exception\obj\Debug\netcoreapp3.1\Format_Exception.pdb
+D:\C#\Error&Exception\Format_Exception\obj\Debug\netcoreapp3.1\Format_Exception.genruntimeconfig.cache

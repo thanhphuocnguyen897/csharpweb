@@ -1,0 +1,9 @@
+D:\C#\Unit-Testing\the-next-day\NextDayCalculator\bin\Debug\netstandard2.0\NextDayCalculator.deps.json
+D:\C#\Unit-Testing\the-next-day\NextDayCalculator\bin\Debug\netstandard2.0\NextDayCalculator.dll
+D:\C#\Unit-Testing\the-next-day\NextDayCalculator\bin\Debug\netstandard2.0\NextDayCalculator.pdb
+D:\C#\Unit-Testing\the-next-day\NextDayCalculator\obj\Debug\netstandard2.0\NextDayCalculator.csprojAssemblyReference.cache
+D:\C#\Unit-Testing\the-next-day\NextDayCalculator\obj\Debug\netstandard2.0\NextDayCalculator.AssemblyInfoInputs.cache
+D:\C#\Unit-Testing\the-next-day\NextDayCalculator\obj\Debug\netstandard2.0\NextDayCalculator.AssemblyInfo.cs
+D:\C#\Unit-Testing\the-next-day\NextDayCalculator\obj\Debug\netstandard2.0\NextDayCalculator.csproj.CoreCompileInputs.cache
+D:\C#\Unit-Testing\the-next-day\NextDayCalculator\obj\Debug\netstandard2.0\NextDayCalculator.dll
+D:\C#\Unit-Testing\the-next-day\NextDayCalculator\obj\Debug\netstandard2.0\NextDayCalculator.pdb

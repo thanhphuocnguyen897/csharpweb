@@ -1,0 +1,13 @@
+D:\C#\FindingAgorithm\LinearFinding\bin\Debug\netcoreapp3.1\LinearFinding.exe
+D:\C#\FindingAgorithm\LinearFinding\bin\Debug\netcoreapp3.1\LinearFinding.deps.json
+D:\C#\FindingAgorithm\LinearFinding\bin\Debug\netcoreapp3.1\LinearFinding.runtimeconfig.json
+D:\C#\FindingAgorithm\LinearFinding\bin\Debug\netcoreapp3.1\LinearFinding.runtimeconfig.dev.json
+D:\C#\FindingAgorithm\LinearFinding\bin\Debug\netcoreapp3.1\LinearFinding.dll
+D:\C#\FindingAgorithm\LinearFinding\bin\Debug\netcoreapp3.1\LinearFinding.pdb
+D:\C#\FindingAgorithm\LinearFinding\obj\Debug\netcoreapp3.1\LinearFinding.csprojAssemblyReference.cache
+D:\C#\FindingAgorithm\LinearFinding\obj\Debug\netcoreapp3.1\LinearFinding.AssemblyInfoInputs.cache
+D:\C#\FindingAgorithm\LinearFinding\obj\Debug\netcoreapp3.1\LinearFinding.AssemblyInfo.cs
+D:\C#\FindingAgorithm\LinearFinding\obj\Debug\netcoreapp3.1\LinearFinding.csproj.CoreCompileInputs.cache
+D:\C#\FindingAgorithm\LinearFinding\obj\Debug\netcoreapp3.1\LinearFinding.dll
+D:\C#\FindingAgorithm\LinearFinding\obj\Debug\netcoreapp3.1\LinearFinding.pdb
+D:\C#\FindingAgorithm\LinearFinding\obj\Debug\netcoreapp3.1\LinearFinding.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C#\Threadding\Odd_And_Even_Thread\bin\Debug\netcoreapp3.1\Odd_And_Even_Thread.exe
+D:\C#\Threadding\Odd_And_Even_Thread\bin\Debug\netcoreapp3.1\Odd_And_Even_Thread.deps.json
+D:\C#\Threadding\Odd_And_Even_Thread\bin\Debug\netcoreapp3.1\Odd_And_Even_Thread.runtimeconfig.json
+D:\C#\Threadding\Odd_And_Even_Thread\bin\Debug\netcoreapp3.1\Odd_And_Even_Thread.runtimeconfig.dev.json
+D:\C#\Threadding\Odd_And_Even_Thread\bin\Debug\netcoreapp3.1\Odd_And_Even_Thread.dll
+D:\C#\Threadding\Odd_And_Even_Thread\bin\Debug\netcoreapp3.1\Odd_And_Even_Thread.pdb
+D:\C#\Threadding\Odd_And_Even_Thread\obj\Debug\netcoreapp3.1\Odd_And_Even_Thread.AssemblyInfoInputs.cache
+D:\C#\Threadding\Odd_And_Even_Thread\obj\Debug\netcoreapp3.1\Odd_And_Even_Thread.AssemblyInfo.cs
+D:\C#\Threadding\Odd_And_Even_Thread\obj\Debug\netcoreapp3.1\Odd_And_Even_Thread.csproj.CoreCompileInputs.cache
+D:\C#\Threadding\Odd_And_Even_Thread\obj\Debug\netcoreapp3.1\Odd_And_Even_Thread.dll
+D:\C#\Threadding\Odd_And_Even_Thread\obj\Debug\netcoreapp3.1\Odd_And_Even_Thread.pdb
+D:\C#\Threadding\Odd_And_Even_Thread\obj\Debug\netcoreapp3.1\Odd_And_Even_Thread.genruntimeconfig.cache

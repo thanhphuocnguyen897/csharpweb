@@ -1,0 +1,13 @@
+D:\C#\SortAlgorithm\ASP_Insertion_sort\bin\Debug\netcoreapp3.1\ASP_Insertion_sort.exe
+D:\C#\SortAlgorithm\ASP_Insertion_sort\bin\Debug\netcoreapp3.1\ASP_Insertion_sort.deps.json
+D:\C#\SortAlgorithm\ASP_Insertion_sort\bin\Debug\netcoreapp3.1\ASP_Insertion_sort.runtimeconfig.json
+D:\C#\SortAlgorithm\ASP_Insertion_sort\bin\Debug\netcoreapp3.1\ASP_Insertion_sort.runtimeconfig.dev.json
+D:\C#\SortAlgorithm\ASP_Insertion_sort\bin\Debug\netcoreapp3.1\ASP_Insertion_sort.dll
+D:\C#\SortAlgorithm\ASP_Insertion_sort\bin\Debug\netcoreapp3.1\ASP_Insertion_sort.pdb
+D:\C#\SortAlgorithm\ASP_Insertion_sort\obj\Debug\netcoreapp3.1\ASP_Insertion_sort.csprojAssemblyReference.cache
+D:\C#\SortAlgorithm\ASP_Insertion_sort\obj\Debug\netcoreapp3.1\ASP_Insertion_sort.AssemblyInfoInputs.cache
+D:\C#\SortAlgorithm\ASP_Insertion_sort\obj\Debug\netcoreapp3.1\ASP_Insertion_sort.AssemblyInfo.cs
+D:\C#\SortAlgorithm\ASP_Insertion_sort\obj\Debug\netcoreapp3.1\ASP_Insertion_sort.csproj.CoreCompileInputs.cache
+D:\C#\SortAlgorithm\ASP_Insertion_sort\obj\Debug\netcoreapp3.1\ASP_Insertion_sort.dll
+D:\C#\SortAlgorithm\ASP_Insertion_sort\obj\Debug\netcoreapp3.1\ASP_Insertion_sort.pdb
+D:\C#\SortAlgorithm\ASP_Insertion_sort\obj\Debug\netcoreapp3.1\ASP_Insertion_sort.genruntimeconfig.cache

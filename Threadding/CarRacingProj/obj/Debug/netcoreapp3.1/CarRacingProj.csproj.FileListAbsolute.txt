@@ -1,0 +1,13 @@
+D:\C#\Threadding\CarRacingProj\bin\Debug\netcoreapp3.1\CarRacingProj.exe
+D:\C#\Threadding\CarRacingProj\bin\Debug\netcoreapp3.1\CarRacingProj.deps.json
+D:\C#\Threadding\CarRacingProj\bin\Debug\netcoreapp3.1\CarRacingProj.runtimeconfig.json
+D:\C#\Threadding\CarRacingProj\bin\Debug\netcoreapp3.1\CarRacingProj.runtimeconfig.dev.json
+D:\C#\Threadding\CarRacingProj\bin\Debug\netcoreapp3.1\CarRacingProj.dll
+D:\C#\Threadding\CarRacingProj\bin\Debug\netcoreapp3.1\CarRacingProj.pdb
+D:\C#\Threadding\CarRacingProj\obj\Debug\netcoreapp3.1\CarRacingProj.csprojAssemblyReference.cache
+D:\C#\Threadding\CarRacingProj\obj\Debug\netcoreapp3.1\CarRacingProj.AssemblyInfoInputs.cache
+D:\C#\Threadding\CarRacingProj\obj\Debug\netcoreapp3.1\CarRacingProj.AssemblyInfo.cs
+D:\C#\Threadding\CarRacingProj\obj\Debug\netcoreapp3.1\CarRacingProj.csproj.CoreCompileInputs.cache
+D:\C#\Threadding\CarRacingProj\obj\Debug\netcoreapp3.1\CarRacingProj.dll
+D:\C#\Threadding\CarRacingProj\obj\Debug\netcoreapp3.1\CarRacingProj.pdb
+D:\C#\Threadding\CarRacingProj\obj\Debug\netcoreapp3.1\CarRacingProj.genruntimeconfig.cache

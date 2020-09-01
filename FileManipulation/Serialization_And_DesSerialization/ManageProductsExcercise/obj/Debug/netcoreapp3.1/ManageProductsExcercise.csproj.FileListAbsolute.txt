@@ -1,0 +1,13 @@
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\bin\Debug\netcoreapp3.1\ManageProductsExcercise.exe
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\bin\Debug\netcoreapp3.1\ManageProductsExcercise.deps.json
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\bin\Debug\netcoreapp3.1\ManageProductsExcercise.runtimeconfig.json
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\bin\Debug\netcoreapp3.1\ManageProductsExcercise.runtimeconfig.dev.json
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\bin\Debug\netcoreapp3.1\ManageProductsExcercise.dll
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\bin\Debug\netcoreapp3.1\ManageProductsExcercise.pdb
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\obj\Debug\netcoreapp3.1\ManageProductsExcercise.csprojAssemblyReference.cache
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\obj\Debug\netcoreapp3.1\ManageProductsExcercise.AssemblyInfoInputs.cache
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\obj\Debug\netcoreapp3.1\ManageProductsExcercise.AssemblyInfo.cs
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\obj\Debug\netcoreapp3.1\ManageProductsExcercise.csproj.CoreCompileInputs.cache
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\obj\Debug\netcoreapp3.1\ManageProductsExcercise.dll
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\obj\Debug\netcoreapp3.1\ManageProductsExcercise.pdb
+D:\C#\FileManipulation\Serialization_And_DesSerialization\ManageProductsExcercise\obj\Debug\netcoreapp3.1\ManageProductsExcercise.genruntimeconfig.cache

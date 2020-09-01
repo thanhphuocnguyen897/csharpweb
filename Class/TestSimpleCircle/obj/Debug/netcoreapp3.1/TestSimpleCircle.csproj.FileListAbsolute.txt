@@ -1,0 +1,13 @@
+D:\C#\Class\TestSimpleCircle\bin\Debug\netcoreapp3.1\TestSimpleCircle.exe
+D:\C#\Class\TestSimpleCircle\bin\Debug\netcoreapp3.1\TestSimpleCircle.deps.json
+D:\C#\Class\TestSimpleCircle\bin\Debug\netcoreapp3.1\TestSimpleCircle.runtimeconfig.json
+D:\C#\Class\TestSimpleCircle\bin\Debug\netcoreapp3.1\TestSimpleCircle.runtimeconfig.dev.json
+D:\C#\Class\TestSimpleCircle\bin\Debug\netcoreapp3.1\TestSimpleCircle.dll
+D:\C#\Class\TestSimpleCircle\bin\Debug\netcoreapp3.1\TestSimpleCircle.pdb
+D:\C#\Class\TestSimpleCircle\obj\Debug\netcoreapp3.1\TestSimpleCircle.csprojAssemblyReference.cache
+D:\C#\Class\TestSimpleCircle\obj\Debug\netcoreapp3.1\TestSimpleCircle.AssemblyInfoInputs.cache
+D:\C#\Class\TestSimpleCircle\obj\Debug\netcoreapp3.1\TestSimpleCircle.AssemblyInfo.cs
+D:\C#\Class\TestSimpleCircle\obj\Debug\netcoreapp3.1\TestSimpleCircle.csproj.CoreCompileInputs.cache
+D:\C#\Class\TestSimpleCircle\obj\Debug\netcoreapp3.1\TestSimpleCircle.dll
+D:\C#\Class\TestSimpleCircle\obj\Debug\netcoreapp3.1\TestSimpleCircle.pdb
+D:\C#\Class\TestSimpleCircle\obj\Debug\netcoreapp3.1\TestSimpleCircle.genruntimeconfig.cache

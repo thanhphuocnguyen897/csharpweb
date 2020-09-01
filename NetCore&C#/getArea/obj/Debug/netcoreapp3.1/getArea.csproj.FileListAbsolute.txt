@@ -1,0 +1,13 @@
+D:\C#\getArea\bin\Debug\netcoreapp3.1\getArea.exe
+D:\C#\getArea\bin\Debug\netcoreapp3.1\getArea.deps.json
+D:\C#\getArea\bin\Debug\netcoreapp3.1\getArea.runtimeconfig.json
+D:\C#\getArea\bin\Debug\netcoreapp3.1\getArea.runtimeconfig.dev.json
+D:\C#\getArea\bin\Debug\netcoreapp3.1\getArea.dll
+D:\C#\getArea\bin\Debug\netcoreapp3.1\getArea.pdb
+D:\C#\getArea\obj\Debug\netcoreapp3.1\getArea.csprojAssemblyReference.cache
+D:\C#\getArea\obj\Debug\netcoreapp3.1\getArea.AssemblyInfoInputs.cache
+D:\C#\getArea\obj\Debug\netcoreapp3.1\getArea.AssemblyInfo.cs
+D:\C#\getArea\obj\Debug\netcoreapp3.1\getArea.csproj.CoreCompileInputs.cache
+D:\C#\getArea\obj\Debug\netcoreapp3.1\getArea.dll
+D:\C#\getArea\obj\Debug\netcoreapp3.1\getArea.pdb
+D:\C#\getArea\obj\Debug\netcoreapp3.1\getArea.genruntimeconfig.cache

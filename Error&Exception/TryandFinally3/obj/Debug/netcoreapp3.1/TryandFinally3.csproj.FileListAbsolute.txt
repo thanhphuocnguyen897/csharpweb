@@ -1,0 +1,4 @@
+D:\C#\Error&Exception\TryandFinally3\obj\Debug\netcoreapp3.1\TryandFinally3.csprojAssemblyReference.cache
+D:\C#\Error&Exception\TryandFinally3\obj\Debug\netcoreapp3.1\TryandFinally3.AssemblyInfoInputs.cache
+D:\C#\Error&Exception\TryandFinally3\obj\Debug\netcoreapp3.1\TryandFinally3.AssemblyInfo.cs
+D:\C#\Error&Exception\TryandFinally3\obj\Debug\netcoreapp3.1\TryandFinally3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+D:\C#\Class\FanClass\bin\Debug\netcoreapp3.1\FanClass.exe
+D:\C#\Class\FanClass\bin\Debug\netcoreapp3.1\FanClass.deps.json
+D:\C#\Class\FanClass\bin\Debug\netcoreapp3.1\FanClass.runtimeconfig.json
+D:\C#\Class\FanClass\bin\Debug\netcoreapp3.1\FanClass.runtimeconfig.dev.json
+D:\C#\Class\FanClass\bin\Debug\netcoreapp3.1\FanClass.dll
+D:\C#\Class\FanClass\bin\Debug\netcoreapp3.1\FanClass.pdb
+D:\C#\Class\FanClass\obj\Debug\netcoreapp3.1\FanClass.csprojAssemblyReference.cache
+D:\C#\Class\FanClass\obj\Debug\netcoreapp3.1\FanClass.AssemblyInfoInputs.cache
+D:\C#\Class\FanClass\obj\Debug\netcoreapp3.1\FanClass.AssemblyInfo.cs
+D:\C#\Class\FanClass\obj\Debug\netcoreapp3.1\FanClass.csproj.CoreCompileInputs.cache
+D:\C#\Class\FanClass\obj\Debug\netcoreapp3.1\FanClass.dll
+D:\C#\Class\FanClass\obj\Debug\netcoreapp3.1\FanClass.pdb
+D:\C#\Class\FanClass\obj\Debug\netcoreapp3.1\FanClass.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PrimeNumberLower100/1.0.0": {
+        "runtime": {
+          "PrimeNumberLower100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeNumberLower100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

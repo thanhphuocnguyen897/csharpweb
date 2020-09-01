@@ -1,0 +1,13 @@
+D:\C#\Class\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.exe
+D:\C#\Class\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.deps.json
+D:\C#\Class\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.runtimeconfig.json
+D:\C#\Class\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.runtimeconfig.dev.json
+D:\C#\Class\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.dll
+D:\C#\Class\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.pdb
+D:\C#\Class\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.csprojAssemblyReference.cache
+D:\C#\Class\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.AssemblyInfoInputs.cache
+D:\C#\Class\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.AssemblyInfo.cs
+D:\C#\Class\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\C#\Class\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.dll
+D:\C#\Class\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.pdb
+D:\C#\Class\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.genruntimeconfig.cache

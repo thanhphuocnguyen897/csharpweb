@@ -1,0 +1,13 @@
+D:\C#\Inheritance\ShapeBaseClass\bin\Debug\netcoreapp3.1\ShapeBaseClass.exe
+D:\C#\Inheritance\ShapeBaseClass\bin\Debug\netcoreapp3.1\ShapeBaseClass.deps.json
+D:\C#\Inheritance\ShapeBaseClass\bin\Debug\netcoreapp3.1\ShapeBaseClass.runtimeconfig.json
+D:\C#\Inheritance\ShapeBaseClass\bin\Debug\netcoreapp3.1\ShapeBaseClass.runtimeconfig.dev.json
+D:\C#\Inheritance\ShapeBaseClass\bin\Debug\netcoreapp3.1\ShapeBaseClass.dll
+D:\C#\Inheritance\ShapeBaseClass\bin\Debug\netcoreapp3.1\ShapeBaseClass.pdb
+D:\C#\Inheritance\ShapeBaseClass\obj\Debug\netcoreapp3.1\ShapeBaseClass.csprojAssemblyReference.cache
+D:\C#\Inheritance\ShapeBaseClass\obj\Debug\netcoreapp3.1\ShapeBaseClass.AssemblyInfoInputs.cache
+D:\C#\Inheritance\ShapeBaseClass\obj\Debug\netcoreapp3.1\ShapeBaseClass.AssemblyInfo.cs
+D:\C#\Inheritance\ShapeBaseClass\obj\Debug\netcoreapp3.1\ShapeBaseClass.csproj.CoreCompileInputs.cache
+D:\C#\Inheritance\ShapeBaseClass\obj\Debug\netcoreapp3.1\ShapeBaseClass.dll
+D:\C#\Inheritance\ShapeBaseClass\obj\Debug\netcoreapp3.1\ShapeBaseClass.pdb
+D:\C#\Inheritance\ShapeBaseClass\obj\Debug\netcoreapp3.1\ShapeBaseClass.genruntimeconfig.cache

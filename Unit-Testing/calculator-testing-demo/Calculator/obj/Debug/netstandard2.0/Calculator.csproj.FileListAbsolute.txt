@@ -1,0 +1,9 @@
+D:\C#\Unit-Testing\calculator-testing-demo\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+D:\C#\Unit-Testing\calculator-testing-demo\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+D:\C#\Unit-Testing\calculator-testing-demo\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+D:\C#\Unit-Testing\calculator-testing-demo\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+D:\C#\Unit-Testing\calculator-testing-demo\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+D:\C#\Unit-Testing\calculator-testing-demo\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+D:\C#\Unit-Testing\calculator-testing-demo\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+D:\C#\Unit-Testing\calculator-testing-demo\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+D:\C#\Unit-Testing\calculator-testing-demo\Calculator\obj\Debug\netstandard2.0\Calculator.pdb

@@ -1,0 +1,13 @@
+D:\C#\Collection2\StudentArrayListPractice\bin\Debug\netcoreapp3.1\StudentArrayListPractice.exe
+D:\C#\Collection2\StudentArrayListPractice\bin\Debug\netcoreapp3.1\StudentArrayListPractice.deps.json
+D:\C#\Collection2\StudentArrayListPractice\bin\Debug\netcoreapp3.1\StudentArrayListPractice.runtimeconfig.json
+D:\C#\Collection2\StudentArrayListPractice\bin\Debug\netcoreapp3.1\StudentArrayListPractice.runtimeconfig.dev.json
+D:\C#\Collection2\StudentArrayListPractice\bin\Debug\netcoreapp3.1\StudentArrayListPractice.dll
+D:\C#\Collection2\StudentArrayListPractice\bin\Debug\netcoreapp3.1\StudentArrayListPractice.pdb
+D:\C#\Collection2\StudentArrayListPractice\obj\Debug\netcoreapp3.1\StudentArrayListPractice.csprojAssemblyReference.cache
+D:\C#\Collection2\StudentArrayListPractice\obj\Debug\netcoreapp3.1\StudentArrayListPractice.AssemblyInfoInputs.cache
+D:\C#\Collection2\StudentArrayListPractice\obj\Debug\netcoreapp3.1\StudentArrayListPractice.AssemblyInfo.cs
+D:\C#\Collection2\StudentArrayListPractice\obj\Debug\netcoreapp3.1\StudentArrayListPractice.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\StudentArrayListPractice\obj\Debug\netcoreapp3.1\StudentArrayListPractice.dll
+D:\C#\Collection2\StudentArrayListPractice\obj\Debug\netcoreapp3.1\StudentArrayListPractice.pdb
+D:\C#\Collection2\StudentArrayListPractice\obj\Debug\netcoreapp3.1\StudentArrayListPractice.genruntimeconfig.cache

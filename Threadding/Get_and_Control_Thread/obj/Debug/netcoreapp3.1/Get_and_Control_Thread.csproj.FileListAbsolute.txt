@@ -1,0 +1,13 @@
+D:\C#\Threadding\Get_and_Control_Thread\bin\Debug\netcoreapp3.1\Get_and_Control_Thread.exe
+D:\C#\Threadding\Get_and_Control_Thread\bin\Debug\netcoreapp3.1\Get_and_Control_Thread.deps.json
+D:\C#\Threadding\Get_and_Control_Thread\bin\Debug\netcoreapp3.1\Get_and_Control_Thread.runtimeconfig.json
+D:\C#\Threadding\Get_and_Control_Thread\bin\Debug\netcoreapp3.1\Get_and_Control_Thread.runtimeconfig.dev.json
+D:\C#\Threadding\Get_and_Control_Thread\bin\Debug\netcoreapp3.1\Get_and_Control_Thread.dll
+D:\C#\Threadding\Get_and_Control_Thread\bin\Debug\netcoreapp3.1\Get_and_Control_Thread.pdb
+D:\C#\Threadding\Get_and_Control_Thread\obj\Debug\netcoreapp3.1\Get_and_Control_Thread.csprojAssemblyReference.cache
+D:\C#\Threadding\Get_and_Control_Thread\obj\Debug\netcoreapp3.1\Get_and_Control_Thread.AssemblyInfoInputs.cache
+D:\C#\Threadding\Get_and_Control_Thread\obj\Debug\netcoreapp3.1\Get_and_Control_Thread.AssemblyInfo.cs
+D:\C#\Threadding\Get_and_Control_Thread\obj\Debug\netcoreapp3.1\Get_and_Control_Thread.csproj.CoreCompileInputs.cache
+D:\C#\Threadding\Get_and_Control_Thread\obj\Debug\netcoreapp3.1\Get_and_Control_Thread.dll
+D:\C#\Threadding\Get_and_Control_Thread\obj\Debug\netcoreapp3.1\Get_and_Control_Thread.pdb
+D:\C#\Threadding\Get_and_Control_Thread\obj\Debug\netcoreapp3.1\Get_and_Control_Thread.genruntimeconfig.cache

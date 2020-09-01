@@ -1,0 +1,13 @@
+D:\C#\Colections\MyListClass\bin\Debug\netcoreapp3.1\MyListClass.exe
+D:\C#\Colections\MyListClass\bin\Debug\netcoreapp3.1\MyListClass.deps.json
+D:\C#\Colections\MyListClass\bin\Debug\netcoreapp3.1\MyListClass.runtimeconfig.json
+D:\C#\Colections\MyListClass\bin\Debug\netcoreapp3.1\MyListClass.runtimeconfig.dev.json
+D:\C#\Colections\MyListClass\bin\Debug\netcoreapp3.1\MyListClass.dll
+D:\C#\Colections\MyListClass\bin\Debug\netcoreapp3.1\MyListClass.pdb
+D:\C#\Colections\MyListClass\obj\Debug\netcoreapp3.1\MyListClass.csprojAssemblyReference.cache
+D:\C#\Colections\MyListClass\obj\Debug\netcoreapp3.1\MyListClass.AssemblyInfoInputs.cache
+D:\C#\Colections\MyListClass\obj\Debug\netcoreapp3.1\MyListClass.AssemblyInfo.cs
+D:\C#\Colections\MyListClass\obj\Debug\netcoreapp3.1\MyListClass.csproj.CoreCompileInputs.cache
+D:\C#\Colections\MyListClass\obj\Debug\netcoreapp3.1\MyListClass.dll
+D:\C#\Colections\MyListClass\obj\Debug\netcoreapp3.1\MyListClass.pdb
+D:\C#\Colections\MyListClass\obj\Debug\netcoreapp3.1\MyListClass.genruntimeconfig.cache

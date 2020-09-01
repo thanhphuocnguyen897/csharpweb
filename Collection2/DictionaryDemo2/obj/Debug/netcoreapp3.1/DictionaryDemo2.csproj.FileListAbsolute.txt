@@ -1,0 +1,13 @@
+D:\C#\Collection2\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.csprojAssemblyReference.cache
+D:\C#\Collection2\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.AssemblyInfoInputs.cache
+D:\C#\Collection2\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.AssemblyInfo.cs
+D:\C#\Collection2\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.exe
+D:\C#\Collection2\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.deps.json
+D:\C#\Collection2\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.runtimeconfig.json
+D:\C#\Collection2\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.runtimeconfig.dev.json
+D:\C#\Collection2\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.dll
+D:\C#\Collection2\DictionaryDemo2\bin\Debug\netcoreapp3.1\DictionaryDemo2.pdb
+D:\C#\Collection2\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.dll
+D:\C#\Collection2\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.pdb
+D:\C#\Collection2\DictionaryDemo2\obj\Debug\netcoreapp3.1\DictionaryDemo2.genruntimeconfig.cache

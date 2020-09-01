@@ -1,0 +1,13 @@
+C:\Users\thanh\source\repos\spellNumbertoWord\bin\Debug\netcoreapp3.1\spellNumbertoWord.exe
+C:\Users\thanh\source\repos\spellNumbertoWord\bin\Debug\netcoreapp3.1\spellNumbertoWord.deps.json
+C:\Users\thanh\source\repos\spellNumbertoWord\bin\Debug\netcoreapp3.1\spellNumbertoWord.runtimeconfig.json
+C:\Users\thanh\source\repos\spellNumbertoWord\bin\Debug\netcoreapp3.1\spellNumbertoWord.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\spellNumbertoWord\bin\Debug\netcoreapp3.1\spellNumbertoWord.dll
+C:\Users\thanh\source\repos\spellNumbertoWord\bin\Debug\netcoreapp3.1\spellNumbertoWord.pdb
+C:\Users\thanh\source\repos\spellNumbertoWord\obj\Debug\netcoreapp3.1\spellNumbertoWord.csprojAssemblyReference.cache
+C:\Users\thanh\source\repos\spellNumbertoWord\obj\Debug\netcoreapp3.1\spellNumbertoWord.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\spellNumbertoWord\obj\Debug\netcoreapp3.1\spellNumbertoWord.AssemblyInfo.cs
+C:\Users\thanh\source\repos\spellNumbertoWord\obj\Debug\netcoreapp3.1\spellNumbertoWord.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\spellNumbertoWord\obj\Debug\netcoreapp3.1\spellNumbertoWord.dll
+C:\Users\thanh\source\repos\spellNumbertoWord\obj\Debug\netcoreapp3.1\spellNumbertoWord.pdb
+C:\Users\thanh\source\repos\spellNumbertoWord\obj\Debug\netcoreapp3.1\spellNumbertoWord.genruntimeconfig.cache

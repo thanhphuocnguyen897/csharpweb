@@ -1,0 +1,13 @@
+C:\Users\thanh\source\repos\VarialbleDataTypes\bin\Debug\netcoreapp3.1\VarialbleDataTypes.exe
+C:\Users\thanh\source\repos\VarialbleDataTypes\bin\Debug\netcoreapp3.1\VarialbleDataTypes.deps.json
+C:\Users\thanh\source\repos\VarialbleDataTypes\bin\Debug\netcoreapp3.1\VarialbleDataTypes.runtimeconfig.json
+C:\Users\thanh\source\repos\VarialbleDataTypes\bin\Debug\netcoreapp3.1\VarialbleDataTypes.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\VarialbleDataTypes\bin\Debug\netcoreapp3.1\VarialbleDataTypes.dll
+C:\Users\thanh\source\repos\VarialbleDataTypes\bin\Debug\netcoreapp3.1\VarialbleDataTypes.pdb
+C:\Users\thanh\source\repos\VarialbleDataTypes\obj\Debug\netcoreapp3.1\VarialbleDataTypes.csprojAssemblyReference.cache
+C:\Users\thanh\source\repos\VarialbleDataTypes\obj\Debug\netcoreapp3.1\VarialbleDataTypes.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\VarialbleDataTypes\obj\Debug\netcoreapp3.1\VarialbleDataTypes.AssemblyInfo.cs
+C:\Users\thanh\source\repos\VarialbleDataTypes\obj\Debug\netcoreapp3.1\VarialbleDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\VarialbleDataTypes\obj\Debug\netcoreapp3.1\VarialbleDataTypes.dll
+C:\Users\thanh\source\repos\VarialbleDataTypes\obj\Debug\netcoreapp3.1\VarialbleDataTypes.pdb
+C:\Users\thanh\source\repos\VarialbleDataTypes\obj\Debug\netcoreapp3.1\VarialbleDataTypes.genruntimeconfig.cache

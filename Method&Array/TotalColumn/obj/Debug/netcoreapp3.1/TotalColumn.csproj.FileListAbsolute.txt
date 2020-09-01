@@ -1,0 +1,12 @@
+D:\C#\Method&Array\TotalColumn\bin\Debug\netcoreapp3.1\TotalColumn.exe
+D:\C#\Method&Array\TotalColumn\bin\Debug\netcoreapp3.1\TotalColumn.deps.json
+D:\C#\Method&Array\TotalColumn\bin\Debug\netcoreapp3.1\TotalColumn.runtimeconfig.json
+D:\C#\Method&Array\TotalColumn\bin\Debug\netcoreapp3.1\TotalColumn.runtimeconfig.dev.json
+D:\C#\Method&Array\TotalColumn\bin\Debug\netcoreapp3.1\TotalColumn.dll
+D:\C#\Method&Array\TotalColumn\bin\Debug\netcoreapp3.1\TotalColumn.pdb
+D:\C#\Method&Array\TotalColumn\obj\Debug\netcoreapp3.1\TotalColumn.AssemblyInfoInputs.cache
+D:\C#\Method&Array\TotalColumn\obj\Debug\netcoreapp3.1\TotalColumn.AssemblyInfo.cs
+D:\C#\Method&Array\TotalColumn\obj\Debug\netcoreapp3.1\TotalColumn.csproj.CoreCompileInputs.cache
+D:\C#\Method&Array\TotalColumn\obj\Debug\netcoreapp3.1\TotalColumn.dll
+D:\C#\Method&Array\TotalColumn\obj\Debug\netcoreapp3.1\TotalColumn.pdb
+D:\C#\Method&Array\TotalColumn\obj\Debug\netcoreapp3.1\TotalColumn.genruntimeconfig.cache

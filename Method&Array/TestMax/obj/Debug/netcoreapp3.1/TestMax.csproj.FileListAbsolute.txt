@@ -1,0 +1,13 @@
+D:\C#\Method&Array\TestMax\bin\Debug\netcoreapp3.1\TestMax.exe
+D:\C#\Method&Array\TestMax\bin\Debug\netcoreapp3.1\TestMax.deps.json
+D:\C#\Method&Array\TestMax\bin\Debug\netcoreapp3.1\TestMax.runtimeconfig.json
+D:\C#\Method&Array\TestMax\bin\Debug\netcoreapp3.1\TestMax.runtimeconfig.dev.json
+D:\C#\Method&Array\TestMax\bin\Debug\netcoreapp3.1\TestMax.dll
+D:\C#\Method&Array\TestMax\bin\Debug\netcoreapp3.1\TestMax.pdb
+D:\C#\Method&Array\TestMax\obj\Debug\netcoreapp3.1\TestMax.csprojAssemblyReference.cache
+D:\C#\Method&Array\TestMax\obj\Debug\netcoreapp3.1\TestMax.AssemblyInfoInputs.cache
+D:\C#\Method&Array\TestMax\obj\Debug\netcoreapp3.1\TestMax.AssemblyInfo.cs
+D:\C#\Method&Array\TestMax\obj\Debug\netcoreapp3.1\TestMax.csproj.CoreCompileInputs.cache
+D:\C#\Method&Array\TestMax\obj\Debug\netcoreapp3.1\TestMax.dll
+D:\C#\Method&Array\TestMax\obj\Debug\netcoreapp3.1\TestMax.pdb
+D:\C#\Method&Array\TestMax\obj\Debug\netcoreapp3.1\TestMax.genruntimeconfig.cache

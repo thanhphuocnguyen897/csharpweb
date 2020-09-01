@@ -1,0 +1,13 @@
+D:\C#\CreateaMenu\bin\Debug\netcoreapp3.1\CreateaMenu.exe
+D:\C#\CreateaMenu\bin\Debug\netcoreapp3.1\CreateaMenu.deps.json
+D:\C#\CreateaMenu\bin\Debug\netcoreapp3.1\CreateaMenu.runtimeconfig.json
+D:\C#\CreateaMenu\bin\Debug\netcoreapp3.1\CreateaMenu.runtimeconfig.dev.json
+D:\C#\CreateaMenu\bin\Debug\netcoreapp3.1\CreateaMenu.dll
+D:\C#\CreateaMenu\bin\Debug\netcoreapp3.1\CreateaMenu.pdb
+D:\C#\CreateaMenu\obj\Debug\netcoreapp3.1\CreateaMenu.csprojAssemblyReference.cache
+D:\C#\CreateaMenu\obj\Debug\netcoreapp3.1\CreateaMenu.AssemblyInfoInputs.cache
+D:\C#\CreateaMenu\obj\Debug\netcoreapp3.1\CreateaMenu.AssemblyInfo.cs
+D:\C#\CreateaMenu\obj\Debug\netcoreapp3.1\CreateaMenu.csproj.CoreCompileInputs.cache
+D:\C#\CreateaMenu\obj\Debug\netcoreapp3.1\CreateaMenu.dll
+D:\C#\CreateaMenu\obj\Debug\netcoreapp3.1\CreateaMenu.pdb
+D:\C#\CreateaMenu\obj\Debug\netcoreapp3.1\CreateaMenu.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\AccessModifier\Student2\bin\Debug\netcoreapp3.1\Student2.exe
+D:\C#\AccessModifier\Student2\bin\Debug\netcoreapp3.1\Student2.deps.json
+D:\C#\AccessModifier\Student2\bin\Debug\netcoreapp3.1\Student2.runtimeconfig.json
+D:\C#\AccessModifier\Student2\bin\Debug\netcoreapp3.1\Student2.runtimeconfig.dev.json
+D:\C#\AccessModifier\Student2\bin\Debug\netcoreapp3.1\Student2.dll
+D:\C#\AccessModifier\Student2\bin\Debug\netcoreapp3.1\Student2.pdb
+D:\C#\AccessModifier\Student2\obj\Debug\netcoreapp3.1\Student2.csprojAssemblyReference.cache
+D:\C#\AccessModifier\Student2\obj\Debug\netcoreapp3.1\Student2.AssemblyInfoInputs.cache
+D:\C#\AccessModifier\Student2\obj\Debug\netcoreapp3.1\Student2.AssemblyInfo.cs
+D:\C#\AccessModifier\Student2\obj\Debug\netcoreapp3.1\Student2.csproj.CoreCompileInputs.cache
+D:\C#\AccessModifier\Student2\obj\Debug\netcoreapp3.1\Student2.dll
+D:\C#\AccessModifier\Student2\obj\Debug\netcoreapp3.1\Student2.pdb
+D:\C#\AccessModifier\Student2\obj\Debug\netcoreapp3.1\Student2.genruntimeconfig.cache

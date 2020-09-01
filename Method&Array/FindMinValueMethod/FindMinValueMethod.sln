@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMinValueMethod", "FindMinValueMethod.csproj", "{865804D2-0EF3-49F6-A106-3B3F5B6442D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865804D2-0EF3-49F6-A106-3B3F5B6442D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865804D2-0EF3-49F6-A106-3B3F5B6442D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865804D2-0EF3-49F6-A106-3B3F5B6442D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865804D2-0EF3-49F6-A106-3B3F5B6442D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18749BC1-C1A9-42B3-86BD-46087A7C1554}
+	EndGlobalSection
+EndGlobal

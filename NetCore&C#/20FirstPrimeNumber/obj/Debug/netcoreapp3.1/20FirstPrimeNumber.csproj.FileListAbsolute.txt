@@ -1,0 +1,13 @@
+C:\Users\thanh\source\repos\20FirstPrimeNumber\bin\Debug\netcoreapp3.1\20FirstPrimeNumber.exe
+C:\Users\thanh\source\repos\20FirstPrimeNumber\bin\Debug\netcoreapp3.1\20FirstPrimeNumber.deps.json
+C:\Users\thanh\source\repos\20FirstPrimeNumber\bin\Debug\netcoreapp3.1\20FirstPrimeNumber.runtimeconfig.json
+C:\Users\thanh\source\repos\20FirstPrimeNumber\bin\Debug\netcoreapp3.1\20FirstPrimeNumber.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\20FirstPrimeNumber\bin\Debug\netcoreapp3.1\20FirstPrimeNumber.dll
+C:\Users\thanh\source\repos\20FirstPrimeNumber\bin\Debug\netcoreapp3.1\20FirstPrimeNumber.pdb
+C:\Users\thanh\source\repos\20FirstPrimeNumber\obj\Debug\netcoreapp3.1\20FirstPrimeNumber.csprojAssemblyReference.cache
+C:\Users\thanh\source\repos\20FirstPrimeNumber\obj\Debug\netcoreapp3.1\20FirstPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\20FirstPrimeNumber\obj\Debug\netcoreapp3.1\20FirstPrimeNumber.AssemblyInfo.cs
+C:\Users\thanh\source\repos\20FirstPrimeNumber\obj\Debug\netcoreapp3.1\20FirstPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\20FirstPrimeNumber\obj\Debug\netcoreapp3.1\20FirstPrimeNumber.dll
+C:\Users\thanh\source\repos\20FirstPrimeNumber\obj\Debug\netcoreapp3.1\20FirstPrimeNumber.pdb
+C:\Users\thanh\source\repos\20FirstPrimeNumber\obj\Debug\netcoreapp3.1\20FirstPrimeNumber.genruntimeconfig.cache

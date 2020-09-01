@@ -1,0 +1,12 @@
+C:\Users\thanh\source\repos\Days of the Month\bin\Debug\netcoreapp3.1\Days of the Month.exe
+C:\Users\thanh\source\repos\Days of the Month\bin\Debug\netcoreapp3.1\Days of the Month.deps.json
+C:\Users\thanh\source\repos\Days of the Month\bin\Debug\netcoreapp3.1\Days of the Month.runtimeconfig.json
+C:\Users\thanh\source\repos\Days of the Month\bin\Debug\netcoreapp3.1\Days of the Month.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\Days of the Month\bin\Debug\netcoreapp3.1\Days of the Month.dll
+C:\Users\thanh\source\repos\Days of the Month\bin\Debug\netcoreapp3.1\Days of the Month.pdb
+C:\Users\thanh\source\repos\Days of the Month\obj\Debug\netcoreapp3.1\Days of the Month.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\Days of the Month\obj\Debug\netcoreapp3.1\Days of the Month.AssemblyInfo.cs
+C:\Users\thanh\source\repos\Days of the Month\obj\Debug\netcoreapp3.1\Days of the Month.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\Days of the Month\obj\Debug\netcoreapp3.1\Days of the Month.dll
+C:\Users\thanh\source\repos\Days of the Month\obj\Debug\netcoreapp3.1\Days of the Month.pdb
+C:\Users\thanh\source\repos\Days of the Month\obj\Debug\netcoreapp3.1\Days of the Month.genruntimeconfig.cache

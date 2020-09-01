@@ -1,0 +1,13 @@
+D:\C#\Method&Array\MethodSum\obj\Debug\netcoreapp3.1\MethodSum.csprojAssemblyReference.cache
+D:\C#\Method&Array\MethodSum\obj\Debug\netcoreapp3.1\MethodSum.AssemblyInfoInputs.cache
+D:\C#\Method&Array\MethodSum\obj\Debug\netcoreapp3.1\MethodSum.AssemblyInfo.cs
+D:\C#\Method&Array\MethodSum\obj\Debug\netcoreapp3.1\MethodSum.csproj.CoreCompileInputs.cache
+D:\C#\Method&Array\MethodSum\bin\Debug\netcoreapp3.1\MethodSum.exe
+D:\C#\Method&Array\MethodSum\bin\Debug\netcoreapp3.1\MethodSum.deps.json
+D:\C#\Method&Array\MethodSum\bin\Debug\netcoreapp3.1\MethodSum.runtimeconfig.json
+D:\C#\Method&Array\MethodSum\bin\Debug\netcoreapp3.1\MethodSum.runtimeconfig.dev.json
+D:\C#\Method&Array\MethodSum\bin\Debug\netcoreapp3.1\MethodSum.dll
+D:\C#\Method&Array\MethodSum\bin\Debug\netcoreapp3.1\MethodSum.pdb
+D:\C#\Method&Array\MethodSum\obj\Debug\netcoreapp3.1\MethodSum.dll
+D:\C#\Method&Array\MethodSum\obj\Debug\netcoreapp3.1\MethodSum.pdb
+D:\C#\Method&Array\MethodSum\obj\Debug\netcoreapp3.1\MethodSum.genruntimeconfig.cache

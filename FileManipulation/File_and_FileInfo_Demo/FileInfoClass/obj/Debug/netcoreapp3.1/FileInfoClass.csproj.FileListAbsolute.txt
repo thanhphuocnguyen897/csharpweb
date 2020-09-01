@@ -1,0 +1,13 @@
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\bin\Debug\netcoreapp3.1\FileInfoClass.exe
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\bin\Debug\netcoreapp3.1\FileInfoClass.deps.json
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\bin\Debug\netcoreapp3.1\FileInfoClass.runtimeconfig.json
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\bin\Debug\netcoreapp3.1\FileInfoClass.runtimeconfig.dev.json
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\bin\Debug\netcoreapp3.1\FileInfoClass.dll
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\bin\Debug\netcoreapp3.1\FileInfoClass.pdb
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\obj\Debug\netcoreapp3.1\FileInfoClass.csprojAssemblyReference.cache
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\obj\Debug\netcoreapp3.1\FileInfoClass.AssemblyInfoInputs.cache
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\obj\Debug\netcoreapp3.1\FileInfoClass.AssemblyInfo.cs
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\obj\Debug\netcoreapp3.1\FileInfoClass.csproj.CoreCompileInputs.cache
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\obj\Debug\netcoreapp3.1\FileInfoClass.dll
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\obj\Debug\netcoreapp3.1\FileInfoClass.pdb
+D:\C#\FileManipulation\File_and_FileInfo_Demo\FileInfoClass\obj\Debug\netcoreapp3.1\FileInfoClass.genruntimeconfig.cache

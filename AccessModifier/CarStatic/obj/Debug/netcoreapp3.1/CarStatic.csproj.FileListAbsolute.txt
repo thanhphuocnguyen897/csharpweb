@@ -1,0 +1,12 @@
+D:\C#\AccessModifier\CarStatic\bin\Debug\netcoreapp3.1\CarStatic.exe
+D:\C#\AccessModifier\CarStatic\bin\Debug\netcoreapp3.1\CarStatic.deps.json
+D:\C#\AccessModifier\CarStatic\bin\Debug\netcoreapp3.1\CarStatic.runtimeconfig.json
+D:\C#\AccessModifier\CarStatic\bin\Debug\netcoreapp3.1\CarStatic.runtimeconfig.dev.json
+D:\C#\AccessModifier\CarStatic\bin\Debug\netcoreapp3.1\CarStatic.dll
+D:\C#\AccessModifier\CarStatic\bin\Debug\netcoreapp3.1\CarStatic.pdb
+D:\C#\AccessModifier\CarStatic\obj\Debug\netcoreapp3.1\CarStatic.AssemblyInfoInputs.cache
+D:\C#\AccessModifier\CarStatic\obj\Debug\netcoreapp3.1\CarStatic.AssemblyInfo.cs
+D:\C#\AccessModifier\CarStatic\obj\Debug\netcoreapp3.1\CarStatic.csproj.CoreCompileInputs.cache
+D:\C#\AccessModifier\CarStatic\obj\Debug\netcoreapp3.1\CarStatic.dll
+D:\C#\AccessModifier\CarStatic\obj\Debug\netcoreapp3.1\CarStatic.pdb
+D:\C#\AccessModifier\CarStatic\obj\Debug\netcoreapp3.1\CarStatic.genruntimeconfig.cache

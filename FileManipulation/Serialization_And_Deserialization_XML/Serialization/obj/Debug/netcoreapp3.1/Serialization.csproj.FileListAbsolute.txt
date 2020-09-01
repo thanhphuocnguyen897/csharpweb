@@ -1,0 +1,13 @@
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\bin\Debug\netcoreapp3.1\Serialization.exe
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\bin\Debug\netcoreapp3.1\Serialization.dll
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\bin\Debug\netcoreapp3.1\Serialization.pdb
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\obj\Debug\netcoreapp3.1\Serialization.csprojAssemblyReference.cache
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CoreCompileInputs.cache
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\obj\Debug\netcoreapp3.1\Serialization.dll
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\obj\Debug\netcoreapp3.1\Serialization.pdb
+D:\C#\FileManipulation\Serialization_And_Deserialization_XML\Serialization\obj\Debug\netcoreapp3.1\Serialization.genruntimeconfig.cache

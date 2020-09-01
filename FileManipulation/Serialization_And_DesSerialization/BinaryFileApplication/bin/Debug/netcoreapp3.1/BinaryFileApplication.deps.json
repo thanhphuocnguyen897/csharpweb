@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BinaryFileApplication/1.0.0": {
+        "runtime": {
+          "BinaryFileApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryFileApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

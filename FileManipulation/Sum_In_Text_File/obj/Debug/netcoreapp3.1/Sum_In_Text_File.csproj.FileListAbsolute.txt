@@ -1,0 +1,13 @@
+C:\Users\thanh\source\repos\Sum_In_Text_File\bin\Debug\netcoreapp3.1\Sum_In_Text_File.exe
+C:\Users\thanh\source\repos\Sum_In_Text_File\bin\Debug\netcoreapp3.1\Sum_In_Text_File.deps.json
+C:\Users\thanh\source\repos\Sum_In_Text_File\bin\Debug\netcoreapp3.1\Sum_In_Text_File.runtimeconfig.json
+C:\Users\thanh\source\repos\Sum_In_Text_File\bin\Debug\netcoreapp3.1\Sum_In_Text_File.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\Sum_In_Text_File\bin\Debug\netcoreapp3.1\Sum_In_Text_File.dll
+C:\Users\thanh\source\repos\Sum_In_Text_File\bin\Debug\netcoreapp3.1\Sum_In_Text_File.pdb
+C:\Users\thanh\source\repos\Sum_In_Text_File\obj\Debug\netcoreapp3.1\Sum_In_Text_File.csprojAssemblyReference.cache
+C:\Users\thanh\source\repos\Sum_In_Text_File\obj\Debug\netcoreapp3.1\Sum_In_Text_File.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\Sum_In_Text_File\obj\Debug\netcoreapp3.1\Sum_In_Text_File.AssemblyInfo.cs
+C:\Users\thanh\source\repos\Sum_In_Text_File\obj\Debug\netcoreapp3.1\Sum_In_Text_File.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\Sum_In_Text_File\obj\Debug\netcoreapp3.1\Sum_In_Text_File.dll
+C:\Users\thanh\source\repos\Sum_In_Text_File\obj\Debug\netcoreapp3.1\Sum_In_Text_File.pdb
+C:\Users\thanh\source\repos\Sum_In_Text_File\obj\Debug\netcoreapp3.1\Sum_In_Text_File.genruntimeconfig.cache

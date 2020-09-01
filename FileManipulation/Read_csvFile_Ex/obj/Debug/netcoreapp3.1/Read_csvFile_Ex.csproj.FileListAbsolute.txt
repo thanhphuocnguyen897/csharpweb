@@ -1,0 +1,13 @@
+D:\C#\FileManipulation\Read_csvFile_Ex\bin\Debug\netcoreapp3.1\Read_csvFile_Ex.exe
+D:\C#\FileManipulation\Read_csvFile_Ex\bin\Debug\netcoreapp3.1\Read_csvFile_Ex.deps.json
+D:\C#\FileManipulation\Read_csvFile_Ex\bin\Debug\netcoreapp3.1\Read_csvFile_Ex.runtimeconfig.json
+D:\C#\FileManipulation\Read_csvFile_Ex\bin\Debug\netcoreapp3.1\Read_csvFile_Ex.runtimeconfig.dev.json
+D:\C#\FileManipulation\Read_csvFile_Ex\bin\Debug\netcoreapp3.1\Read_csvFile_Ex.dll
+D:\C#\FileManipulation\Read_csvFile_Ex\bin\Debug\netcoreapp3.1\Read_csvFile_Ex.pdb
+D:\C#\FileManipulation\Read_csvFile_Ex\obj\Debug\netcoreapp3.1\Read_csvFile_Ex.csprojAssemblyReference.cache
+D:\C#\FileManipulation\Read_csvFile_Ex\obj\Debug\netcoreapp3.1\Read_csvFile_Ex.AssemblyInfoInputs.cache
+D:\C#\FileManipulation\Read_csvFile_Ex\obj\Debug\netcoreapp3.1\Read_csvFile_Ex.AssemblyInfo.cs
+D:\C#\FileManipulation\Read_csvFile_Ex\obj\Debug\netcoreapp3.1\Read_csvFile_Ex.csproj.CoreCompileInputs.cache
+D:\C#\FileManipulation\Read_csvFile_Ex\obj\Debug\netcoreapp3.1\Read_csvFile_Ex.dll
+D:\C#\FileManipulation\Read_csvFile_Ex\obj\Debug\netcoreapp3.1\Read_csvFile_Ex.pdb
+D:\C#\FileManipulation\Read_csvFile_Ex\obj\Debug\netcoreapp3.1\Read_csvFile_Ex.genruntimeconfig.cache

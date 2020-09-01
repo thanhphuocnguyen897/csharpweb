@@ -1,0 +1,13 @@
+D:\C#\PrimeNumberLower100\bin\Debug\netcoreapp3.1\PrimeNumberLower100.exe
+D:\C#\PrimeNumberLower100\bin\Debug\netcoreapp3.1\PrimeNumberLower100.deps.json
+D:\C#\PrimeNumberLower100\bin\Debug\netcoreapp3.1\PrimeNumberLower100.runtimeconfig.json
+D:\C#\PrimeNumberLower100\bin\Debug\netcoreapp3.1\PrimeNumberLower100.runtimeconfig.dev.json
+D:\C#\PrimeNumberLower100\bin\Debug\netcoreapp3.1\PrimeNumberLower100.dll
+D:\C#\PrimeNumberLower100\bin\Debug\netcoreapp3.1\PrimeNumberLower100.pdb
+D:\C#\PrimeNumberLower100\obj\Debug\netcoreapp3.1\PrimeNumberLower100.csprojAssemblyReference.cache
+D:\C#\PrimeNumberLower100\obj\Debug\netcoreapp3.1\PrimeNumberLower100.AssemblyInfoInputs.cache
+D:\C#\PrimeNumberLower100\obj\Debug\netcoreapp3.1\PrimeNumberLower100.AssemblyInfo.cs
+D:\C#\PrimeNumberLower100\obj\Debug\netcoreapp3.1\PrimeNumberLower100.csproj.CoreCompileInputs.cache
+D:\C#\PrimeNumberLower100\obj\Debug\netcoreapp3.1\PrimeNumberLower100.dll
+D:\C#\PrimeNumberLower100\obj\Debug\netcoreapp3.1\PrimeNumberLower100.pdb
+D:\C#\PrimeNumberLower100\obj\Debug\netcoreapp3.1\PrimeNumberLower100.genruntimeconfig.cache

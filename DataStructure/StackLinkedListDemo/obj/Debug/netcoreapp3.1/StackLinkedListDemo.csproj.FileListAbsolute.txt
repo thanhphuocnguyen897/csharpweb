@@ -1,0 +1,13 @@
+D:\C#\DataStructure\StackLinkedListDemo\bin\Debug\netcoreapp3.1\StackLinkedListDemo.exe
+D:\C#\DataStructure\StackLinkedListDemo\bin\Debug\netcoreapp3.1\StackLinkedListDemo.deps.json
+D:\C#\DataStructure\StackLinkedListDemo\bin\Debug\netcoreapp3.1\StackLinkedListDemo.runtimeconfig.json
+D:\C#\DataStructure\StackLinkedListDemo\bin\Debug\netcoreapp3.1\StackLinkedListDemo.runtimeconfig.dev.json
+D:\C#\DataStructure\StackLinkedListDemo\bin\Debug\netcoreapp3.1\StackLinkedListDemo.dll
+D:\C#\DataStructure\StackLinkedListDemo\bin\Debug\netcoreapp3.1\StackLinkedListDemo.pdb
+D:\C#\DataStructure\StackLinkedListDemo\obj\Debug\netcoreapp3.1\StackLinkedListDemo.csprojAssemblyReference.cache
+D:\C#\DataStructure\StackLinkedListDemo\obj\Debug\netcoreapp3.1\StackLinkedListDemo.AssemblyInfoInputs.cache
+D:\C#\DataStructure\StackLinkedListDemo\obj\Debug\netcoreapp3.1\StackLinkedListDemo.AssemblyInfo.cs
+D:\C#\DataStructure\StackLinkedListDemo\obj\Debug\netcoreapp3.1\StackLinkedListDemo.csproj.CoreCompileInputs.cache
+D:\C#\DataStructure\StackLinkedListDemo\obj\Debug\netcoreapp3.1\StackLinkedListDemo.dll
+D:\C#\DataStructure\StackLinkedListDemo\obj\Debug\netcoreapp3.1\StackLinkedListDemo.pdb
+D:\C#\DataStructure\StackLinkedListDemo\obj\Debug\netcoreapp3.1\StackLinkedListDemo.genruntimeconfig.cache

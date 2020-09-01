@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Get_and_Control_Thread/1.0.0": {
+        "runtime": {
+          "Get_and_Control_Thread.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Get_and_Control_Thread/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

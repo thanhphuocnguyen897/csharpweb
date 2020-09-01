@@ -1,0 +1,9 @@
+D:\C#\Unit-Testing\triangle-classifier-nunit\TriangleClassifier\bin\Debug\netstandard2.0\TriangleClassifier.deps.json
+D:\C#\Unit-Testing\triangle-classifier-nunit\TriangleClassifier\bin\Debug\netstandard2.0\TriangleClassifier.dll
+D:\C#\Unit-Testing\triangle-classifier-nunit\TriangleClassifier\bin\Debug\netstandard2.0\TriangleClassifier.pdb
+D:\C#\Unit-Testing\triangle-classifier-nunit\TriangleClassifier\obj\Debug\netstandard2.0\TriangleClassifier.csprojAssemblyReference.cache
+D:\C#\Unit-Testing\triangle-classifier-nunit\TriangleClassifier\obj\Debug\netstandard2.0\TriangleClassifier.AssemblyInfoInputs.cache
+D:\C#\Unit-Testing\triangle-classifier-nunit\TriangleClassifier\obj\Debug\netstandard2.0\TriangleClassifier.AssemblyInfo.cs
+D:\C#\Unit-Testing\triangle-classifier-nunit\TriangleClassifier\obj\Debug\netstandard2.0\TriangleClassifier.csproj.CoreCompileInputs.cache
+D:\C#\Unit-Testing\triangle-classifier-nunit\TriangleClassifier\obj\Debug\netstandard2.0\TriangleClassifier.dll
+D:\C#\Unit-Testing\triangle-classifier-nunit\TriangleClassifier\obj\Debug\netstandard2.0\TriangleClassifier.pdb

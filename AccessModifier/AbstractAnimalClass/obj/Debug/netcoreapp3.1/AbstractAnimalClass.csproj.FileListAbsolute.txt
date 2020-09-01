@@ -1,0 +1,13 @@
+D:\C#\AccessModifier\AbstractAnimalClass\bin\Debug\netcoreapp3.1\AbstractAnimalClass.exe
+D:\C#\AccessModifier\AbstractAnimalClass\bin\Debug\netcoreapp3.1\AbstractAnimalClass.deps.json
+D:\C#\AccessModifier\AbstractAnimalClass\bin\Debug\netcoreapp3.1\AbstractAnimalClass.runtimeconfig.json
+D:\C#\AccessModifier\AbstractAnimalClass\bin\Debug\netcoreapp3.1\AbstractAnimalClass.runtimeconfig.dev.json
+D:\C#\AccessModifier\AbstractAnimalClass\bin\Debug\netcoreapp3.1\AbstractAnimalClass.dll
+D:\C#\AccessModifier\AbstractAnimalClass\bin\Debug\netcoreapp3.1\AbstractAnimalClass.pdb
+D:\C#\AccessModifier\AbstractAnimalClass\obj\Debug\netcoreapp3.1\AbstractAnimalClass.csprojAssemblyReference.cache
+D:\C#\AccessModifier\AbstractAnimalClass\obj\Debug\netcoreapp3.1\AbstractAnimalClass.AssemblyInfoInputs.cache
+D:\C#\AccessModifier\AbstractAnimalClass\obj\Debug\netcoreapp3.1\AbstractAnimalClass.AssemblyInfo.cs
+D:\C#\AccessModifier\AbstractAnimalClass\obj\Debug\netcoreapp3.1\AbstractAnimalClass.csproj.CoreCompileInputs.cache
+D:\C#\AccessModifier\AbstractAnimalClass\obj\Debug\netcoreapp3.1\AbstractAnimalClass.dll
+D:\C#\AccessModifier\AbstractAnimalClass\obj\Debug\netcoreapp3.1\AbstractAnimalClass.pdb
+D:\C#\AccessModifier\AbstractAnimalClass\obj\Debug\netcoreapp3.1\AbstractAnimalClass.genruntimeconfig.cache

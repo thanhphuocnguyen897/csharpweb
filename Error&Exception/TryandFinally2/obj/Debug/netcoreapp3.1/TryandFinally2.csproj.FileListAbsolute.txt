@@ -1,0 +1,12 @@
+D:\C#\Error&Exception\TryandFinally2\bin\Debug\netcoreapp3.1\TryandFinally2.exe
+D:\C#\Error&Exception\TryandFinally2\bin\Debug\netcoreapp3.1\TryandFinally2.deps.json
+D:\C#\Error&Exception\TryandFinally2\bin\Debug\netcoreapp3.1\TryandFinally2.runtimeconfig.json
+D:\C#\Error&Exception\TryandFinally2\bin\Debug\netcoreapp3.1\TryandFinally2.runtimeconfig.dev.json
+D:\C#\Error&Exception\TryandFinally2\bin\Debug\netcoreapp3.1\TryandFinally2.dll
+D:\C#\Error&Exception\TryandFinally2\bin\Debug\netcoreapp3.1\TryandFinally2.pdb
+D:\C#\Error&Exception\TryandFinally2\obj\Debug\netcoreapp3.1\TryandFinally2.AssemblyInfoInputs.cache
+D:\C#\Error&Exception\TryandFinally2\obj\Debug\netcoreapp3.1\TryandFinally2.AssemblyInfo.cs
+D:\C#\Error&Exception\TryandFinally2\obj\Debug\netcoreapp3.1\TryandFinally2.csproj.CoreCompileInputs.cache
+D:\C#\Error&Exception\TryandFinally2\obj\Debug\netcoreapp3.1\TryandFinally2.dll
+D:\C#\Error&Exception\TryandFinally2\obj\Debug\netcoreapp3.1\TryandFinally2.pdb
+D:\C#\Error&Exception\TryandFinally2\obj\Debug\netcoreapp3.1\TryandFinally2.genruntimeconfig.cache

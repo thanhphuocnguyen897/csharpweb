@@ -1,0 +1,12 @@
+D:\C#\Method&Array\CheckPassStudents\bin\Debug\netcoreapp3.1\CheckPassStudents.exe
+D:\C#\Method&Array\CheckPassStudents\bin\Debug\netcoreapp3.1\CheckPassStudents.deps.json
+D:\C#\Method&Array\CheckPassStudents\bin\Debug\netcoreapp3.1\CheckPassStudents.runtimeconfig.json
+D:\C#\Method&Array\CheckPassStudents\bin\Debug\netcoreapp3.1\CheckPassStudents.runtimeconfig.dev.json
+D:\C#\Method&Array\CheckPassStudents\bin\Debug\netcoreapp3.1\CheckPassStudents.dll
+D:\C#\Method&Array\CheckPassStudents\bin\Debug\netcoreapp3.1\CheckPassStudents.pdb
+D:\C#\Method&Array\CheckPassStudents\obj\Debug\netcoreapp3.1\CheckPassStudents.AssemblyInfoInputs.cache
+D:\C#\Method&Array\CheckPassStudents\obj\Debug\netcoreapp3.1\CheckPassStudents.AssemblyInfo.cs
+D:\C#\Method&Array\CheckPassStudents\obj\Debug\netcoreapp3.1\CheckPassStudents.csproj.CoreCompileInputs.cache
+D:\C#\Method&Array\CheckPassStudents\obj\Debug\netcoreapp3.1\CheckPassStudents.dll
+D:\C#\Method&Array\CheckPassStudents\obj\Debug\netcoreapp3.1\CheckPassStudents.pdb
+D:\C#\Method&Array\CheckPassStudents\obj\Debug\netcoreapp3.1\CheckPassStudents.genruntimeconfig.cache

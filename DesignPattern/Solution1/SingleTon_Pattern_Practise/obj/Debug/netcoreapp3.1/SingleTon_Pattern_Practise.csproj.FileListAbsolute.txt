@@ -1,0 +1,13 @@
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\bin\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.exe
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\bin\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.deps.json
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\bin\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.runtimeconfig.json
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\bin\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.runtimeconfig.dev.json
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\bin\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.dll
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\bin\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.pdb
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\obj\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.csprojAssemblyReference.cache
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\obj\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.AssemblyInfoInputs.cache
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\obj\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.AssemblyInfo.cs
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\obj\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.csproj.CoreCompileInputs.cache
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\obj\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.dll
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\obj\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.pdb
+D:\C#\DesignPattern\Solution1\SingleTon_Pattern_Practise\obj\Debug\netcoreapp3.1\SingleTon_Pattern_Practise.genruntimeconfig.cache

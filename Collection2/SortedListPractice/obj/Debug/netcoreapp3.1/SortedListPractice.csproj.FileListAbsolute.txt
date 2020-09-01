@@ -1,0 +1,13 @@
+D:\C#\Collection2\SortedListPractice\bin\Debug\netcoreapp3.1\SortedListPractice.exe
+D:\C#\Collection2\SortedListPractice\bin\Debug\netcoreapp3.1\SortedListPractice.deps.json
+D:\C#\Collection2\SortedListPractice\bin\Debug\netcoreapp3.1\SortedListPractice.runtimeconfig.json
+D:\C#\Collection2\SortedListPractice\bin\Debug\netcoreapp3.1\SortedListPractice.runtimeconfig.dev.json
+D:\C#\Collection2\SortedListPractice\bin\Debug\netcoreapp3.1\SortedListPractice.dll
+D:\C#\Collection2\SortedListPractice\bin\Debug\netcoreapp3.1\SortedListPractice.pdb
+D:\C#\Collection2\SortedListPractice\obj\Debug\netcoreapp3.1\SortedListPractice.csprojAssemblyReference.cache
+D:\C#\Collection2\SortedListPractice\obj\Debug\netcoreapp3.1\SortedListPractice.AssemblyInfoInputs.cache
+D:\C#\Collection2\SortedListPractice\obj\Debug\netcoreapp3.1\SortedListPractice.AssemblyInfo.cs
+D:\C#\Collection2\SortedListPractice\obj\Debug\netcoreapp3.1\SortedListPractice.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\SortedListPractice\obj\Debug\netcoreapp3.1\SortedListPractice.dll
+D:\C#\Collection2\SortedListPractice\obj\Debug\netcoreapp3.1\SortedListPractice.pdb
+D:\C#\Collection2\SortedListPractice\obj\Debug\netcoreapp3.1\SortedListPractice.genruntimeconfig.cache

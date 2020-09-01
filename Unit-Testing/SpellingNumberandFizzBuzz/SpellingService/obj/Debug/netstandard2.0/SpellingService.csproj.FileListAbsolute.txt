@@ -1,0 +1,9 @@
+D:\C#\Unit-Testing\SpellingNumberandFizzBuzz\SpellingService\bin\Debug\netstandard2.0\SpellingService.deps.json
+D:\C#\Unit-Testing\SpellingNumberandFizzBuzz\SpellingService\bin\Debug\netstandard2.0\SpellingService.dll
+D:\C#\Unit-Testing\SpellingNumberandFizzBuzz\SpellingService\bin\Debug\netstandard2.0\SpellingService.pdb
+D:\C#\Unit-Testing\SpellingNumberandFizzBuzz\SpellingService\obj\Debug\netstandard2.0\SpellingService.csprojAssemblyReference.cache
+D:\C#\Unit-Testing\SpellingNumberandFizzBuzz\SpellingService\obj\Debug\netstandard2.0\SpellingService.AssemblyInfoInputs.cache
+D:\C#\Unit-Testing\SpellingNumberandFizzBuzz\SpellingService\obj\Debug\netstandard2.0\SpellingService.AssemblyInfo.cs
+D:\C#\Unit-Testing\SpellingNumberandFizzBuzz\SpellingService\obj\Debug\netstandard2.0\SpellingService.csproj.CoreCompileInputs.cache
+D:\C#\Unit-Testing\SpellingNumberandFizzBuzz\SpellingService\obj\Debug\netstandard2.0\SpellingService.dll
+D:\C#\Unit-Testing\SpellingNumberandFizzBuzz\SpellingService\obj\Debug\netstandard2.0\SpellingService.pdb

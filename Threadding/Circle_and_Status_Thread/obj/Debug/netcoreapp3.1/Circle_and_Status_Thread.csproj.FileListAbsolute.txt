@@ -1,0 +1,13 @@
+D:\C#\Threadding\Circle_and_Status_Thread\bin\Debug\netcoreapp3.1\Circle_and_Status_Thread.exe
+D:\C#\Threadding\Circle_and_Status_Thread\bin\Debug\netcoreapp3.1\Circle_and_Status_Thread.deps.json
+D:\C#\Threadding\Circle_and_Status_Thread\bin\Debug\netcoreapp3.1\Circle_and_Status_Thread.runtimeconfig.json
+D:\C#\Threadding\Circle_and_Status_Thread\bin\Debug\netcoreapp3.1\Circle_and_Status_Thread.runtimeconfig.dev.json
+D:\C#\Threadding\Circle_and_Status_Thread\bin\Debug\netcoreapp3.1\Circle_and_Status_Thread.dll
+D:\C#\Threadding\Circle_and_Status_Thread\bin\Debug\netcoreapp3.1\Circle_and_Status_Thread.pdb
+D:\C#\Threadding\Circle_and_Status_Thread\obj\Debug\netcoreapp3.1\Circle_and_Status_Thread.csprojAssemblyReference.cache
+D:\C#\Threadding\Circle_and_Status_Thread\obj\Debug\netcoreapp3.1\Circle_and_Status_Thread.AssemblyInfoInputs.cache
+D:\C#\Threadding\Circle_and_Status_Thread\obj\Debug\netcoreapp3.1\Circle_and_Status_Thread.AssemblyInfo.cs
+D:\C#\Threadding\Circle_and_Status_Thread\obj\Debug\netcoreapp3.1\Circle_and_Status_Thread.dll
+D:\C#\Threadding\Circle_and_Status_Thread\obj\Debug\netcoreapp3.1\Circle_and_Status_Thread.pdb
+D:\C#\Threadding\Circle_and_Status_Thread\obj\Debug\netcoreapp3.1\Circle_and_Status_Thread.genruntimeconfig.cache
+D:\C#\Threadding\Circle_and_Status_Thread\obj\Debug\netcoreapp3.1\Circle_and_Status_Thread.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+D:\C#\CalculateInterestRate\bin\Debug\netcoreapp3.1\CalculateInterestRate.exe
+D:\C#\CalculateInterestRate\bin\Debug\netcoreapp3.1\CalculateInterestRate.deps.json
+D:\C#\CalculateInterestRate\bin\Debug\netcoreapp3.1\CalculateInterestRate.runtimeconfig.json
+D:\C#\CalculateInterestRate\bin\Debug\netcoreapp3.1\CalculateInterestRate.runtimeconfig.dev.json
+D:\C#\CalculateInterestRate\bin\Debug\netcoreapp3.1\CalculateInterestRate.dll
+D:\C#\CalculateInterestRate\bin\Debug\netcoreapp3.1\CalculateInterestRate.pdb
+D:\C#\CalculateInterestRate\obj\Debug\netcoreapp3.1\CalculateInterestRate.csprojAssemblyReference.cache
+D:\C#\CalculateInterestRate\obj\Debug\netcoreapp3.1\CalculateInterestRate.AssemblyInfoInputs.cache
+D:\C#\CalculateInterestRate\obj\Debug\netcoreapp3.1\CalculateInterestRate.AssemblyInfo.cs
+D:\C#\CalculateInterestRate\obj\Debug\netcoreapp3.1\CalculateInterestRate.csproj.CoreCompileInputs.cache
+D:\C#\CalculateInterestRate\obj\Debug\netcoreapp3.1\CalculateInterestRate.dll
+D:\C#\CalculateInterestRate\obj\Debug\netcoreapp3.1\CalculateInterestRate.pdb
+D:\C#\CalculateInterestRate\obj\Debug\netcoreapp3.1\CalculateInterestRate.genruntimeconfig.cache

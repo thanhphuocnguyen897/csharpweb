@@ -1,0 +1,13 @@
+D:\C#\Collection2\ListTexcercise\bin\Debug\netcoreapp3.1\ListTexcercise.exe
+D:\C#\Collection2\ListTexcercise\bin\Debug\netcoreapp3.1\ListTexcercise.deps.json
+D:\C#\Collection2\ListTexcercise\bin\Debug\netcoreapp3.1\ListTexcercise.runtimeconfig.json
+D:\C#\Collection2\ListTexcercise\bin\Debug\netcoreapp3.1\ListTexcercise.runtimeconfig.dev.json
+D:\C#\Collection2\ListTexcercise\bin\Debug\netcoreapp3.1\ListTexcercise.dll
+D:\C#\Collection2\ListTexcercise\bin\Debug\netcoreapp3.1\ListTexcercise.pdb
+D:\C#\Collection2\ListTexcercise\obj\Debug\netcoreapp3.1\ListTexcercise.csprojAssemblyReference.cache
+D:\C#\Collection2\ListTexcercise\obj\Debug\netcoreapp3.1\ListTexcercise.AssemblyInfoInputs.cache
+D:\C#\Collection2\ListTexcercise\obj\Debug\netcoreapp3.1\ListTexcercise.AssemblyInfo.cs
+D:\C#\Collection2\ListTexcercise\obj\Debug\netcoreapp3.1\ListTexcercise.csproj.CoreCompileInputs.cache
+D:\C#\Collection2\ListTexcercise\obj\Debug\netcoreapp3.1\ListTexcercise.dll
+D:\C#\Collection2\ListTexcercise\obj\Debug\netcoreapp3.1\ListTexcercise.pdb
+D:\C#\Collection2\ListTexcercise\obj\Debug\netcoreapp3.1\ListTexcercise.genruntimeconfig.cache
