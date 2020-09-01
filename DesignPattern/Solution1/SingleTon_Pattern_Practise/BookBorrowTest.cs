@@ -2,7 +2,7 @@
 
 namespace SingleTon_Pattern_Practise
 {
-    class Program
+    class BookBorrowTest
     {
         static void Main(string[] args)
         {

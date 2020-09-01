@@ -1,0 +1,13 @@
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\bin\Debug\netcoreapp3.1\Object_PoolPattern_Ex.exe
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\bin\Debug\netcoreapp3.1\Object_PoolPattern_Ex.deps.json
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\bin\Debug\netcoreapp3.1\Object_PoolPattern_Ex.runtimeconfig.json
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\bin\Debug\netcoreapp3.1\Object_PoolPattern_Ex.runtimeconfig.dev.json
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\bin\Debug\netcoreapp3.1\Object_PoolPattern_Ex.dll
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\bin\Debug\netcoreapp3.1\Object_PoolPattern_Ex.pdb
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\obj\Debug\netcoreapp3.1\Object_PoolPattern_Ex.csprojAssemblyReference.cache
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\obj\Debug\netcoreapp3.1\Object_PoolPattern_Ex.AssemblyInfoInputs.cache
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\obj\Debug\netcoreapp3.1\Object_PoolPattern_Ex.AssemblyInfo.cs
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\obj\Debug\netcoreapp3.1\Object_PoolPattern_Ex.csproj.CoreCompileInputs.cache
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\obj\Debug\netcoreapp3.1\Object_PoolPattern_Ex.dll
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\obj\Debug\netcoreapp3.1\Object_PoolPattern_Ex.pdb
+D:\C#\DesignPattern\Solution1\Object_PoolPattern_Ex\obj\Debug\netcoreapp3.1\Object_PoolPattern_Ex.genruntimeconfig.cache
