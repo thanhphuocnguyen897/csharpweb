@@ -1,0 +1,3 @@
+Id: 1 - Category Name:    Milk
+Id: 2 - Category Name: Snacks
+Id: 3 - Category Name:  Beer

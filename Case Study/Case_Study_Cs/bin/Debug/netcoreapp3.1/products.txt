@@ -1,0 +1,2 @@
+Id: 1 - Product Name:  Ong Tho  - Price: 12000 - Category Id: 0 - Category Name: 
+Id: 2 - Product Name: Co gai ha lan - Price: 9000 - Category Id: 1 - Category Name:     Milk

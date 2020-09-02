@@ -1,0 +1,13 @@
+D:\C#\Case Study\Total_Excercise_Cs\bin\Debug\netcoreapp3.1\Total_Excercise_Cs.exe
+D:\C#\Case Study\Total_Excercise_Cs\bin\Debug\netcoreapp3.1\Total_Excercise_Cs.deps.json
+D:\C#\Case Study\Total_Excercise_Cs\bin\Debug\netcoreapp3.1\Total_Excercise_Cs.runtimeconfig.json
+D:\C#\Case Study\Total_Excercise_Cs\bin\Debug\netcoreapp3.1\Total_Excercise_Cs.runtimeconfig.dev.json
+D:\C#\Case Study\Total_Excercise_Cs\bin\Debug\netcoreapp3.1\Total_Excercise_Cs.dll
+D:\C#\Case Study\Total_Excercise_Cs\bin\Debug\netcoreapp3.1\Total_Excercise_Cs.pdb
+D:\C#\Case Study\Total_Excercise_Cs\obj\Debug\netcoreapp3.1\Total_Excercise_Cs.csprojAssemblyReference.cache
+D:\C#\Case Study\Total_Excercise_Cs\obj\Debug\netcoreapp3.1\Total_Excercise_Cs.AssemblyInfoInputs.cache
+D:\C#\Case Study\Total_Excercise_Cs\obj\Debug\netcoreapp3.1\Total_Excercise_Cs.AssemblyInfo.cs
+D:\C#\Case Study\Total_Excercise_Cs\obj\Debug\netcoreapp3.1\Total_Excercise_Cs.csproj.CoreCompileInputs.cache
+D:\C#\Case Study\Total_Excercise_Cs\obj\Debug\netcoreapp3.1\Total_Excercise_Cs.dll
+D:\C#\Case Study\Total_Excercise_Cs\obj\Debug\netcoreapp3.1\Total_Excercise_Cs.pdb
+D:\C#\Case Study\Total_Excercise_Cs\obj\Debug\netcoreapp3.1\Total_Excercise_Cs.genruntimeconfig.cache

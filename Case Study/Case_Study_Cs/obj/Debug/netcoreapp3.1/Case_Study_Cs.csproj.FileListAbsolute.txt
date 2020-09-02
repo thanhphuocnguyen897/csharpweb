@@ -1,0 +1,13 @@
+D:\C#\Case Study\Case_Study_Cs\bin\Debug\netcoreapp3.1\Case_Study_Cs.exe
+D:\C#\Case Study\Case_Study_Cs\bin\Debug\netcoreapp3.1\Case_Study_Cs.deps.json
+D:\C#\Case Study\Case_Study_Cs\bin\Debug\netcoreapp3.1\Case_Study_Cs.runtimeconfig.json
+D:\C#\Case Study\Case_Study_Cs\bin\Debug\netcoreapp3.1\Case_Study_Cs.runtimeconfig.dev.json
+D:\C#\Case Study\Case_Study_Cs\bin\Debug\netcoreapp3.1\Case_Study_Cs.dll
+D:\C#\Case Study\Case_Study_Cs\bin\Debug\netcoreapp3.1\Case_Study_Cs.pdb
+D:\C#\Case Study\Case_Study_Cs\obj\Debug\netcoreapp3.1\Case_Study_Cs.csprojAssemblyReference.cache
+D:\C#\Case Study\Case_Study_Cs\obj\Debug\netcoreapp3.1\Case_Study_Cs.AssemblyInfoInputs.cache
+D:\C#\Case Study\Case_Study_Cs\obj\Debug\netcoreapp3.1\Case_Study_Cs.AssemblyInfo.cs
+D:\C#\Case Study\Case_Study_Cs\obj\Debug\netcoreapp3.1\Case_Study_Cs.csproj.CoreCompileInputs.cache
+D:\C#\Case Study\Case_Study_Cs\obj\Debug\netcoreapp3.1\Case_Study_Cs.dll
+D:\C#\Case Study\Case_Study_Cs\obj\Debug\netcoreapp3.1\Case_Study_Cs.pdb
+D:\C#\Case Study\Case_Study_Cs\obj\Debug\netcoreapp3.1\Case_Study_Cs.genruntimeconfig.cache
